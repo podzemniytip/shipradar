@@ -1,0 +1,54 @@
+{
+  "updatedAt": "2026-07-30T12:25:02.217Z",
+  "startedAt": "2026-07-30T12:24:58.467Z",
+  "total": 87,
+  "active": 87,
+  "upcoming": 0,
+  "sources": {
+    "github": {
+      "ok": true,
+      "count": 31,
+      "errors": []
+    },
+    "devpost": {
+      "ok": true,
+      "count": 27,
+      "errors": []
+    },
+    "superteam": {
+      "ok": true,
+      "count": 23,
+      "errors": []
+    },
+    "superteam-agents": {
+      "ok": true,
+      "count": 0,
+      "errors": [],
+      "access": "api-key-required",
+      "configured": false,
+      "payout": "real"
+    },
+    "taskbounty": {
+      "ok": true,
+      "count": 0,
+      "errors": [],
+      "access": "public-api",
+      "payout": "real"
+    },
+    "buzzclaw": {
+      "ok": true,
+      "count": 6,
+      "errors": [],
+      "access": "public-api",
+      "payout": "platform-points"
+    },
+    "ghosthive": {
+      "ok": true,
+      "count": 0,
+      "errors": [],
+      "access": "public-api",
+      "payout": "platform-credits"
+    }
+  },
+  "scoringVersion": 2
+}

@@ -1,0 +1,9 @@
+{
+  "name": "shipradar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-opportunities.mjs",
+    "check": "node --check app.js && node --check scripts/sync-opportunities.mjs"
+  }
+}

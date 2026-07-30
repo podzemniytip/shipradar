@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ShipRadar — a live radar of paid work for builders and AI agents.">
+  <title>ShipRadar — paid work for builders and AI agents</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="ShipRadar — home">
+      <span class="brand-mark" aria-hidden="true">↘</span>
+      <span>SHIP<br>RADAR</span>
+    </a>
+
+    <div class="market-status" aria-label="Database status">
+      <span class="live-dot"></span>
+      <span>Database updated</span>
+      <strong id="updatedAt">waiting for sync</strong>
+    </div>
+
+    <nav class="header-actions" aria-label="Main navigation">
+      <button class="text-button" id="savedButton" aria-pressed="false" title="Bookmarks saved in this browser">Saved <span id="savedCount">0</span></button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Paid opportunity radar</p>
+        <h1>Find work<br><em>worth shipping.</em></h1>
+        <p class="hero-description">
+          Human and agent-native bounties, hackathons and grants in one signal-rich feed.
+          Ranked by AI fit, agent readiness, competition and payout confidence.
+        </p>
+      </div>
+
+      <div class="hero-board" aria-label="Market overview">
+        <article class="metric metric-primary">
+          <span>Active opportunities</span>
+          <strong id="activeMetric">—</strong>
+          <small><b id="freshMetric">live</b> verified links</small>
+        </article>
+        <article class="metric">
+          <span>Rewards available</span>
+          <strong id="rewardMetric">—</strong>
+          <small id="sourceMetric">across connected sources</small>
+        </article>
+        <article class="metric">
+          <span>Top opportunity</span>
+          <strong id="scoreMetric">—</strong>
+          <small><b>score</b> of the best match</small>
+        </article>
+      </div>
+    </section>
+
+    <section class="terminal">
+      <div class="terminal-head">
+        <div class="status-tabs" role="tablist" aria-label="Opportunity status">
+          <button class="status-tab active" data-status="active" role="tab" aria-selected="true">
+            Active <span id="activeTabCount">0</span>
+          </button>
+          <button class="status-tab" data-status="upcoming" role="tab" aria-selected="false">
+            Upcoming <span id="upcomingTabCount">0</span>
+          </button>
+          <button class="status-tab" data-status="ended" role="tab" aria-selected="false">
+            Ended <span id="endedTabCount">0</span>
+          </button>
+        </div>
+
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="Skill, stack or task">
+          <kbd>⌘ K</kbd>
+        </label>
+      </div>
+
+      <div class="filter-bar">
+        <div class="quick-filters" aria-label="Quick filters">
+          <button class="filter-chip" data-filter="ai" aria-pressed="false">AI-friendly</button>
+          <button class="filter-chip" data-filter="lowCompetition" aria-pressed="false">Low competition</button>
+          <button class="filter-chip" data-filter="funded" aria-pressed="false">Funded</button>
+          <button class="filter-chip" data-filter="weekend" aria-pressed="false">Weekend-sized</button>
+          <button class="filter-chip" data-filter="noKyc" aria-pressed="false">No KYC</button>
+          <button class="filter-chip" data-filter="agents" aria-pressed="false">Agent-eligible</button>
+        </div>
+
+        <label class="sort-select">
+          <span>Sort:</span>
+          <select id="sortSelect">
+            <option value="recommended">recommended</option>
+            <option value="reward">highest reward</option>
+            <option value="aiFit">highest AI Fit</option>
+            <option value="deadline">ending soon</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="opportunity-header" aria-hidden="true">
+        <span>Opportunity</span>
+        <span>Reward</span>
+        <span>Score</span>
+        <span>Competition</span>
+        <span>Deadline</span>
+        <span></span>
+      </div>
+
+      <div id="opportunityList" class="opportunity-list" aria-live="polite"></div>
+
+      <div id="emptyState" class="empty-state" hidden>
+        <span>∅</span>
+        <h2>No matches found</h2>
+        <p>Remove a filter or try a different search.</p>
+        <button id="resetFilters">Reset filters</button>
+      </div>
+    </section>
+
+    <section class="signal-strip" id="methodology">
+      <div>
+        <span class="signal-number">01</span>
+        <p>One score. Five useful signals.</p>
+      </div>
+      <blockquote>
+        35% AI fit · 25% payout confidence · 20% competition ·
+        10% scope clarity · 10% urgency.
+      </blockquote>
+      <button class="outline-button" id="weekendButton">Show weekend-sized work →</button>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-brand">SHIPRADAR / 2026</div>
+    <p>Independent directory. We do not guarantee payouts or act as a party to listed opportunities.</p>
+    <div>
+      <a href="#methodology">Methodology</a>
+      <a href="https://x.com/ChainZenit" target="_blank" rel="noopener noreferrer">Submit a bounty ↗</a>
+      <a href="./data/opportunities.json">JSON feed</a>
+      <a href="https://x.com/ChainZenit" target="_blank" rel="noopener noreferrer">Built by @ChainZenit ↗</a>
+    </div>
+  </footer>
+
+  <div id="drawerBackdrop" class="drawer-backdrop" hidden></div>
+  <aside id="detailDrawer" class="detail-drawer" aria-hidden="true" aria-label="Opportunity details">
+    <button class="drawer-close" id="drawerClose" aria-label="Close">×</button>
+    <div id="drawerContent"></div>
+  </aside>
+
+  <script src="./data/catalog.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

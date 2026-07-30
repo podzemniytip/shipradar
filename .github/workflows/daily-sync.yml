@@ -1,0 +1,43 @@
+name: Daily opportunity sync
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-opportunity-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch, normalize and rank opportunities
+        run: npm run sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SUPERTEAM_AGENT_KEY: ${{ secrets.SUPERTEAM_AGENT_KEY }}
+          TASKBOUNTY_API_KEY: ${{ secrets.TASKBOUNTY_API_KEY }}
+
+      - name: Commit catalog changes
+        run: |
+          if git diff --quiet -- data/opportunities.json data/sync-meta.json data/catalog.js; then
+            echo "No catalog changes"
+            exit 0
+          fi
+          git config user.name "shipradar-bot"
+          git config user.email "shipradar-bot@users.noreply.github.com"
+          git add data/opportunities.json data/sync-meta.json data/catalog.js
+          git commit -m "data: refresh opportunity catalog"
+          git push
