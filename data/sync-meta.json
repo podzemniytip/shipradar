@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T05:43:48.574Z",
-  "startedAt": "2026-08-18T05:43:43.723Z",
-  "total": 84,
-  "active": 84,
+  "updatedAt": "2026-08-19T05:44:41.543Z",
+  "startedAt": "2026-08-19T05:44:38.030Z",
+  "total": 85,
+  "active": 85,
   "upcoming": 0,
   "sources": {
     "github": {
       "ok": true,
-      "count": 43,
+      "count": 45,
       "errors": []
     },
     "devpost": {
@@ -17,7 +17,7 @@
     },
     "superteam": {
       "ok": true,
-      "count": 29,
+      "count": 26,
       "errors": []
     },
     "superteam-agents": {
@@ -43,9 +43,11 @@
       "payout": "platform-points"
     },
     "ghosthive": {
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "errors": [],
+      "errors": [
+        "GhostHive 404"
+      ],
       "access": "public-api",
       "payout": "platform-credits"
     }
