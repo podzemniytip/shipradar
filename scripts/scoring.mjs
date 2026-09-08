@@ -28,7 +28,8 @@ export function scoreOpportunity(item) {
   const scopeMatches = CLEAR_SCOPE_TERMS.filter(term => text.includes(term)).length;
   const riskMatches = RISK_TERMS.filter(term => text.includes(term)).length;
 
-  const aiFit = clamp(42 + aiMatches * 8 + (item.type === "bounty" ? 8 : 0));
+  const inferredAiFit = 42 + aiMatches * 8 + (item.type === "bounty" ? 8 : 0);
+  const aiFit = clamp(item.aiFitOverride ?? inferredAiFit);
   const trustedPlatformBonus = ["Superteam", "Devpost", "Algora", "TaskBounty"].includes(item.sourceName) ? 8 : 0;
   const nonCashPenalty = item.monetaryReward === false ? 34 : 0;
   const payoutConfidence = clamp(

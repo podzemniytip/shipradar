@@ -8,6 +8,7 @@ import { fetchSuperteamAgentBounties, fetchSuperteamBounties } from "./sources/s
 import { fetchTaskBountyTasks } from "./sources/taskbounty.mjs";
 import { fetchBuzzClawBounties } from "./sources/buzzclaw.mjs";
 import { fetchGhostHiveBounties } from "./sources/ghosthive.mjs";
+import { fetchCommonsMadeHackathons } from "./sources/commonsmade.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const dataDir = join(root, "data");
@@ -59,7 +60,8 @@ const results = await Promise.allSettled([
   fetchSuperteamAgentBounties(),
   fetchTaskBountyTasks(),
   fetchBuzzClawBounties(),
-  fetchGhostHiveBounties()
+  fetchGhostHiveBounties(),
+  fetchCommonsMadeHackathons()
 ]);
 
 const sourceNames = [
@@ -69,7 +71,8 @@ const sourceNames = [
   "superteam-agents",
   "taskbounty",
   "buzzclaw",
-  "ghosthive"
+  "ghosthive",
+  "commonsmade"
 ];
 const sourceStatus = {};
 const freshItems = [];

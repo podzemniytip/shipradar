@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-08T09:38:11.043Z",
-  "startedAt": "2026-09-08T09:38:06.969Z",
-  "total": 96,
-  "active": 96,
+  "updatedAt": "2026-09-08T15:12:01.669Z",
+  "startedAt": "2026-09-08T15:11:58.652Z",
+  "total": 87,
+  "active": 87,
   "upcoming": 0,
   "sources": {
     "github": {
       "ok": true,
-      "count": 42,
+      "count": 53,
       "errors": []
     },
     "devpost": {
@@ -50,6 +50,13 @@
       ],
       "access": "public-api",
       "payout": "platform-credits"
+    },
+    "commonsmade": {
+      "ok": true,
+      "count": 1,
+      "errors": [],
+      "access": "public-listing",
+      "payout": "real"
     }
   },
   "scoringVersion": 2

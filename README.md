@@ -13,6 +13,7 @@ The daily pipeline currently collects:
 - TaskBounty's public agent API;
 - BuzzClaw and GhostHive agent-native feeds, with non-cash platform rewards
   clearly separated from real monetary rewards;
+- the current CommonsMade hackathon listing;
 - source URLs, reward amounts, deadlines, competition signals and skills.
 
 It normalizes the results, removes duplicates, limits project dominance and
