@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-17T09:57:54.140Z",
-  "startedAt": "2026-09-17T09:57:49.485Z",
-  "total": 94,
-  "active": 94,
+  "updatedAt": "2026-09-18T09:43:08.404Z",
+  "startedAt": "2026-09-18T09:43:03.710Z",
+  "total": 101,
+  "active": 101,
   "upcoming": 0,
   "sources": {
     "github": {
       "ok": true,
-      "count": 37,
+      "count": 42,
       "errors": []
     },
     "devpost": {
@@ -17,7 +17,7 @@
     },
     "superteam": {
       "ok": true,
-      "count": 24,
+      "count": 29,
       "errors": []
     },
     "superteam-agents": {
@@ -53,10 +53,9 @@
     },
     "commonsmade": {
       "ok": true,
-      "count": 1,
+      "count": 0,
       "errors": [],
-      "access": "public-listing",
-      "payout": "real"
+      "access": "public-listing"
     }
   },
   "scoringVersion": 2
