@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "sync": "node scripts/sync-opportunities.mjs",
-    "check": "node --check app.js && node --check scripts/sync-opportunities.mjs"
+    "check": "node --check app.js && node --check scripts/sync-opportunities.mjs",
+    "test": "node --test tests/*.test.mjs"
   }
 }
