@@ -17,9 +17,19 @@ if (process.env.GITHUB_TOKEN) {
 function extractReward(text) {
   const candidates = [];
   const patterns = [
-    /(?:\/bounty|bounty|reward|prize)\s*:?\s*(?:USD|USDC|EUR)?\s*\$?\s*([\d,.]+)\s*(k)?/gi,
+    // Explicit currency marker: "$100", "USD 100", "100 USDC", "1.5k EUR".
+    // A currency marker is required so bare numbers are never treated as money.
     /\$\s*([\d,.]+)\s*(k)?\b/gi,
-    /([\d,.]+)\s*(k)?\s*(?:USD|USDC|EUR)\b/gi
+    /\b(?:USD|USDC|EUR)\s*([\d,.]+)\s*(k)?\b/gi,
+    /\b([\d,.]+)\s*(k)?\s*(?:USD|USDC|EUR)\b/gi,
+    // Slash command syntax: "/bounty 100" is an explicit amount even without a
+    // currency marker. Kept narrow so ordinary prose like "bounty 83" is ignored.
+    /\/bounty\s*:?\s*([\d,.]+)\s*(k)?\b/gi,
+    // Keyword + explicit currency marker: "bounty: $100", "reward 50 USDC".
+    // The currency marker is mandatory here to avoid matching IDs/counts/years.
+    /(?:bounty|reward|prize)\s*:?\s*\$\s*([\d,.]+)\s*(k)?\b/gi,
+    /(?:bounty|reward|prize)\s*:?\s*(?:USD|USDC|EUR)\s*([\d,.]+)\s*(k)?\b/gi,
+    /(?:bounty|reward|prize)\s*:?\s*([\d,.]+)\s*(k)?\s*(?:USD|USDC|EUR)\b/gi
   ];
 
   for (const pattern of patterns) {
