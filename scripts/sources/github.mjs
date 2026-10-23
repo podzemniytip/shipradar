@@ -17,7 +17,11 @@ if (process.env.GITHUB_TOKEN) {
 function extractReward(text) {
   const candidates = [];
   const patterns = [
-    /(?:\/bounty|bounty|reward|prize)\s*:?\s*(?:USD|USDC|EUR)?\s*\$?\s*([\d,.]+)\s*(k)?/gi,
+    // Explicit `/bounty 100` command syntax keeps bare amounts.
+    /\/bounty\s*:?\s*(?:USD|USDC|EUR)?\s*\$?\s*([\d,.]+)\s*(k)?/gi,
+    // Keyword amounts require an explicit currency marker, so IDs, counts and
+    // years that follow "bounty"/"reward"/"prize" are not read as money.
+    /(?:bounty|reward|prize)\s*[:=]?\s*(?:\$|USD|USDC|EUR)\s*\$?\s*([\d,.]+)\s*(k)?/gi,
     /\$\s*([\d,.]+)\s*(k)?\b/gi,
     /([\d,.]+)\s*(k)?\s*(?:USD|USDC|EUR)\b/gi
   ];
