@@ -1,14 +1,16 @@
 {
-  "updatedAt": "2026-11-18T13:54:18.664Z",
-  "startedAt": "2026-11-18T13:54:14.017Z",
-  "total": 69,
-  "active": 69,
+  "updatedAt": "2026-11-19T14:22:59.864Z",
+  "startedAt": "2026-11-19T14:22:41.440Z",
+  "total": 79,
+  "active": 79,
   "upcoming": 0,
   "sources": {
     "github": {
-      "ok": true,
-      "count": 28,
-      "errors": []
+      "ok": false,
+      "count": 34,
+      "errors": [
+        "GitHub 502"
+      ]
     },
     "devpost": {
       "ok": true,
