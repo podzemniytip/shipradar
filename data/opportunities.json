@@ -1,64 +1,15 @@
 [
   {
-    "id": "github-6539087837",
-    "externalId": "6539087837",
+    "id": "github-6665862260",
+    "externalId": "6665862260",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
-    "sourceDetail": "loftwah/app-composer",
-    "title": "[P1 COMMUNITY CREATION] Existing communities → creator bounties, tips and recognition; Fungi/Oyster × $SHIIT example",
-    "url": "https://github.com/loftwah/app-composer/issues/1096",
-    "reward": 200,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "warning",
-    "verification": "Maintainer review",
-    "description": "Owner outcome Existing communities already have members, social capital, in-jokes, currencies and creators. App Composer should help those people commission, encourage, make, verify and celebrate things they actually want to exist. The reference example is the existing Fungi / Oyster / Shiitake community and its existing $SHIIT token, not a proposal to launch a token or manufacture another community. North star: \"You",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T05:58:58Z",
-    "updatedAt": "2026-11-27T13:22:46Z",
-    "freshnessHours": 129,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 74,
-    "score": 77,
-    "rating": "A",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 74,
-      "payoutConfidence": 82,
-      "competition": 89,
-      "clarity": 77,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6648240172",
-    "externalId": "6648240172",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "auscaster/frantic-board",
-    "title": "support: bounty #33 claim stuck rejected, redelivery returns claim_unavailable (auto-review advisory)",
-    "url": "https://github.com/auscaster/frantic-board/issues/609",
-    "reward": 33,
+    "sourceDetail": "bad-antics/lateralus-lang",
+    "title": "[bounty] stdlib.rate_limit tutorial: burst allowance and token exhaustion",
+    "url": "https://github.com/bad-antics/lateralus-lang/issues/1216",
+    "reward": 25,
     "rewardNote": "USD · listed reward",
     "competition": 0,
     "hours": [
@@ -68,344 +19,46 @@
     "deadlineHours": null,
     "deadlineLabel": "Open",
     "tags": [
-      "Open Source"
+      "enhancement"
     ],
     "funded": true,
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "Support: bounty 33 claim stuck rejected , redelivery returns claim unavailable (auto-review is advisory-only) No credentials included here. - Bounty: 33 (p-8b91e1ac8c), open and funded - Claim: 7ac12fc3-f9cc-495e-8c3a-24342753306b (agent-b8983c), fuse still alive: 2026-11-27T19:24:38Z - Delivery: 1567359c-c7b3-4284-814b-f391ce47d1e8 (ledger:72545), judged 2026-11-27T13:56:39Z - Ledger event: REJECTED + AUTO REVIEW … ",
+    "description": "Component Documentation Problem or motivation I’d like to apply for the recurring $25 standard-library tutorial in BOUNTIES.md. I build web applications and API integrations. A booking endpoint that receives three requests in a burst is a practical way to show readers when RateLimiter rejects a request and whether a rejected batch spends tokens. Proposed solution I propose a runnable example with two tokens and a zer",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-27T14:19:20Z",
-    "updatedAt": "2026-11-27T14:24:06Z",
+    "createdAt": "2026-11-28T13:45:26Z",
+    "updatedAt": "2026-11-28T13:59:43Z",
     "freshnessHours": 1,
     "agentAccess": "UNKNOWN",
     "aiFit": 66,
-    "score": 76,
+    "score": 78,
     "rating": "A",
     "agentReadiness": 0,
     "scoreBreakdown": {
       "aiFit": 66,
       "payoutConfidence": 82,
       "competition": 100,
-      "clarity": 67,
+      "clarity": 87,
       "urgency": 55
     }
   },
   {
-    "id": "github-6541542589",
-    "externalId": "6541542589",
+    "id": "github-6653035701",
+    "externalId": "6653035701",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
-    "sourceDetail": "Rohank143/BountyScout",
-    "title": "🎯 Bounty Alert: 23 New Opportunityies found",
-    "url": "https://github.com/Rohank143/BountyScout/issues/136",
-    "reward": 10000,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      16,
-      40
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-22 10:55 UTC 1. Invitation: connect your A2A users to a live agent settlement network (281 agents, 1565 bounties) (https://github.com/google-agentic-commerce/a2a-x402/issues/198) - Repository: google-agentic-commerce/a2a-x402 (https://github.com/google-agentic-commerce/a2a-x402) - Comments: 8 - Last Updated: 2026-11-22T10:54:25Z 2. Claim stdlib tutorial bounty: stdlib/tri",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T10:55:21Z",
-    "updatedAt": "2026-11-27T13:22:44Z",
-    "freshnessHours": 124,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 74,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 82,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6522261170",
-    "externalId": "6522261170",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "freedom-winds/BountyScout",
-    "title": "🎯 Bounty Alert: 6 New Opportunityies found",
-    "url": "https://github.com/freedom-winds/BountyScout/issues/1439",
-    "reward": 420,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-21 00:37 UTC 1. SBB-2026-477 RELIABILITY Resume Notification delivery worker after interruption (https://github.com/ritik4ever/stellar-bounty-board/issues/1946) - Repository: ritik4ever/stellar-bounty-board (https://github.com/ritik4ever/stellar-bounty-board) - Comments: 2 - Last Updated: 2026-11-21T00:26:07Z 2. x/agent: escrowed validation bounties — pay the validator fo",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-21T00:37:06Z",
-    "updatedAt": "2026-11-27T13:32:44Z",
-    "freshnessHours": 158,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 74,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 82,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6623325618",
-    "externalId": "6623325618",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
-    "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
-    "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
-    "reward": 200,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "help wanted",
-      "bounty"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Automated CI Conformance Mirror Notice : Automated NVMe ZNS Command Set v1.1d / JEDEC ECC regression runner issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $200 USDC (released automatically on green CI quorum) - Specification Shards : shards/spec 01.json .. shards/spec 64.json - Companion Quor",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-26T09:13:04Z",
-    "updatedAt": "2026-11-27T11:52:43Z",
-    "freshnessHours": 30,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 74,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 82,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6541993112",
-    "externalId": "6541993112",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "zhangjiayang6835-cyber/bounty-plaza",
-    "title": "[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382",
-    "reward": 312,
-    "rewardNote": "USD · listed reward",
-    "competition": 5,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty",
-      "real"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "赏金平台 / Platform GitHub 原始链接 / Source URL https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2 漏洞描述 / Description fix(dwarf trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) cpython-pep626-line-profiler Automated CI Conformance Mirror Notice : Automated Python PEP 626 / PEP 657 Code Object Specification multi-shard quorum issue; manual pull requests ",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T11:46:54Z",
-    "updatedAt": "2026-11-27T13:12:49Z",
-    "freshnessHours": 123,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 71,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 82,
-      "competition": 76,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6623325859",
-    "externalId": "6623325859",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
-    "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
-    "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
-    "reward": 175,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "help wanted",
-      "bounty"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Automated CI Conformance Mirror Notice : Automated NVMe ZNS Command Set v1.1d / JEDEC ECC multi-shard quorum issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $175 USDC - Companion Quorum Suite : https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1 Calibrate ECC BASIS PROFILE , BC",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-26T09:13:05Z",
-    "updatedAt": "2026-11-27T11:52:43Z",
-    "freshnessHours": 30,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 71,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 82,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6541993184",
-    "externalId": "6541993184",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "zhangjiayang6835-cyber/bounty-plaza",
-    "title": "[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383",
-    "reward": 156,
-    "rewardNote": "USD · listed reward",
-    "competition": 5,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty",
-      "real"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "赏金平台 / Platform GitHub 原始链接 / Source URL https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1 漏洞描述 / Description fix(dwarf trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) collect trace event frames Automated CI Conformance Mirror Notice : Automated Python PEP 626 / PEP 657 Code Object Specification regression runner issue; manual pull requests f",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T11:46:55Z",
-    "updatedAt": "2026-11-27T13:12:50Z",
-    "freshnessHours": 123,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 71,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 82,
-      "competition": 76,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6623326404",
-    "externalId": "6623326404",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
-    "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
-    "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
-    "reward": 350,
+    "sourceDetail": "IES-BoilerRoom/wasm-component-canonical-abi",
+    "title": "ci/canonical_abi: Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering - Reward $225 USDC",
+    "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2",
+    "reward": 225,
     "rewardNote": "USD · listed reward",
     "competition": 4,
     "hours": [
@@ -422,26 +75,224 @@
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "Automated CI Conformance Mirror Notice : Automated Linux Kernel BPF Verifier Selftest Profile v6.12 regression runner issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $350 USDC (released automatically on green CI quorum) - Specification Shards : shards/spec 01.json .. shards/spec 64.json - Comp",
+    "description": "Automated CI Conformance Mirror Notice : Automated W3C WebAssembly Component Model Canonical ABI multi-shard quorum issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $225 USDC - Companion Quorum Suite : https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/1 Calibrate CANONICAL ABI ",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-26T09:13:07Z",
-    "updatedAt": "2026-11-27T11:52:42Z",
-    "freshnessHours": 30,
+    "createdAt": "2026-11-27T19:14:50Z",
+    "updatedAt": "2026-11-28T14:06:11Z",
+    "freshnessHours": 19,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 66,
+    "score": 72,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 66,
+      "payoutConfidence": 82,
+      "competition": 79,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6653035580",
+    "externalId": "6653035580",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "IES-BoilerRoom/wasm-component-canonical-abi",
+    "title": "[$100] fix(canonical_abi): Fix canonical string frame ceiling and align deterministic instruction gas polynomial (lift_canonical_string_frames)",
+    "url": "https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1",
+    "reward": 100,
+    "rewardNote": "USD · listed reward",
+    "competition": 3,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "help wanted",
+      "bounty"
+    ],
+    "funded": true,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Automated CI Conformance Mirror Notice : Automated W3C WebAssembly Component Model Canonical ABI regression runner issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $100 USDC (released automatically on green CI quorum) - Specification Shards : shards/spec 01.json .. shards/spec 64.json - Compani",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-27T19:14:49Z",
+    "updatedAt": "2026-11-28T07:14:32Z",
+    "freshnessHours": 19,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 66,
+    "score": 72,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 66,
+      "payoutConfidence": 82,
+      "competition": 83,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6511488174",
+    "externalId": "6511488174",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "Ayush441-python/AUREN",
+    "title": "Question: API integration bounty availability and payment terms",
+    "url": "https://github.com/Ayush441-python/AUREN/issues/156",
+    "reward": 25,
+    "rewardNote": "USD · listed reward",
+    "competition": 3,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "Open Source"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Hi, Is one of the $25 USDC API integration slots still available for a new Python client/demo? I'm based in Colombia and would use Codex-assisted code with tests and review. Before starting, could you confirm an available reward slot and budget, the acceptance checks, and when USDC would be sent on Base after approval? I saw the six-slot limit and the existing demos, so I will wait for confirmation rather than duplic",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-20T12:33:42Z",
+    "updatedAt": "2026-11-28T13:21:55Z",
+    "freshnessHours": 194,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 74,
+    "score": 70,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 74,
+      "payoutConfidence": 58,
+      "competition": 83,
+      "clarity": 77,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6508795726",
+    "externalId": "6508795726",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "Ayush441-python/AUREN",
+    "title": "[Maths Bounty] 30-session equity ADV includes older trades when volume is missing, changing a 40-day exit estimate to 0.12 days",
+    "url": "https://github.com/Ayush441-python/AUREN/issues/154",
+    "reward": 10000000,
+    "rewardNote": "USD · listed reward",
+    "competition": 2,
+    "hours": [
+      16,
+      40
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "Open Source"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "The Liquidity tab says it uses the last 30 trading sessions. For an equity, changing a single volume before those sessions changes both its reported average daily traded value (ADV) and its liquidity classification. I reproduced this on eef89475dece13ad243c6fc83d06f0ae1d1b0882 with the default $10,000 portfolio (NVDA 40%, MSFT 30%, GOOGL 20%, ETH-USD 10%) and synthetic prices and volumes. | NVDA observations inside t",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-20T09:36:43Z",
+    "updatedAt": "2026-11-28T13:21:44Z",
+    "freshnessHours": 197,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 66,
+    "score": 69,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 66,
+      "payoutConfidence": 58,
+      "competition": 89,
+      "clarity": 77,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6514637092",
+    "externalId": "6514637092",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "zhangjiayang6835-cyber/bounty-plaza",
+    "title": "[Bounty] bug: Enforce zero-copy Huffman header boundary across split CONTINUATION frames ",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4378",
+    "reward": 437,
+    "rewardNote": "USD · listed reward",
+    "competition": 4,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "bounty",
+      "real"
+    ],
+    "funded": true,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "赏金平台 / Platform GitHub 原始链接 / Source URL https://github.com/IES-BoilerRoom/grpc-http2-hpack-framing/issues/2 漏洞描述 / Description bug: Enforce zero-copy Huffman header boundary across split CONTINUATION frames ( grpc-http2-hpack-framing ) Reward: $350 USDC Automated CI Conformance Mirror Notice : Automated IETF RFC 7541 HPACK / RFC 9113 HTTP/2 multi-shard quorum issue; manual pull requests from human engineers are not ",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-20T15:40:29Z",
+    "updatedAt": "2026-11-28T14:06:05Z",
+    "freshnessHours": 190,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
-    "score": 70,
+    "score": 69,
     "rating": "B",
     "agentReadiness": 0,
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 82,
       "competition": 79,
-      "clarity": 77,
+      "clarity": 67,
       "urgency": 55
     }
   },
@@ -457,7 +308,7 @@
     "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4379",
     "reward": 312,
     "rewardNote": "USD · listed reward",
-    "competition": 3,
+    "competition": 4,
     "hours": [
       2,
       8
@@ -480,17 +331,17 @@
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
     "createdAt": "2026-11-20T15:40:30Z",
-    "updatedAt": "2026-11-27T13:32:46Z",
-    "freshnessHours": 167,
+    "updatedAt": "2026-11-28T12:22:25Z",
+    "freshnessHours": 190,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
-    "score": 70,
+    "score": 69,
     "rating": "B",
     "agentReadiness": 0,
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 82,
-      "competition": 83,
+      "competition": 79,
       "clarity": 67,
       "urgency": 55
     }
@@ -507,7 +358,7 @@
     "url": "https://github.com/IES-BoilerRoom/grpc-http2-hpack-framing/issues/1",
     "reward": 250,
     "rewardNote": "USD · listed reward",
-    "competition": 3,
+    "competition": 4,
     "hours": [
       2,
       8
@@ -530,205 +381,8 @@
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
     "createdAt": "2026-11-20T11:08:33Z",
-    "updatedAt": "2026-11-27T08:07:40Z",
-    "freshnessHours": 172,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 70,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 82,
-      "competition": 83,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6647206805",
-    "externalId": "6647206805",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "Ayush441-python/AUREN",
-    "title": "[Maths Bounty] Risk Metrics reports negative skew for a portfolio with only an upside jump",
-    "url": "https://github.com/Ayush441-python/AUREN/issues/361",
-    "reward": 50,
-    "rewardNote": "USD · listed reward",
-    "competition": 0,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "On b8f36cc , Risk Metrics shows the same six skewness and excess-kurtosis coefficients for a single gain, a single loss and a flat portfolio. Even a portfolio that never moves is labelled “Leptokurtic (Fat Tails)”. All six values are literals in the rendered view. Source (https://github.com/Ayush441-python/AUREN/blob/b8f36cc3b4a4204835b309efbe4e3a35c66fbb35/web/src/components/views/NavigationViews.tsx L134-L147) Repr",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-27T13:16:58Z",
-    "updatedAt": "2026-11-27T13:37:21Z",
-    "freshnessHours": 2,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 70,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 58,
-      "competition": 100,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6540385866",
-    "externalId": "6540385866",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "paraloom-labs/paraloom-core",
-    "title": "[BUG BOUNTY] Low: The prover-wasm crate's only round-trip test does not compile — the SPL asset_id wiring has no executable end-to-end coverage (paraloom-prover-wasm)",
-    "url": "https://github.com/paraloom-labs/paraloom-core/issues/1647",
-    "reward": 3000,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      16,
-      40
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Summary prove transact in paraloom-prover-wasm gained a seventh parameter, asset id hex , when SPL asset support was added ( 779, commit 91426ed ). The crate's only end-to-end test, tests/v3 native smoke.rs , was never updated: both of its prove transact call sites (lines 109 and 244) still pass six arguments. As a result cargo test fails to compile with E0061 before any test runs, while the library itself builds fin",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T08:41:47Z",
-    "updatedAt": "2026-11-27T13:32:42Z",
-    "freshnessHours": 126,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 69,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 77,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6523721021",
-    "externalId": "6523721021",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "bad-antics/lateralus-lang",
-    "title": "[bounty] lsp-hover-signatures — claimed, PR incoming",
-    "url": "https://github.com/bad-antics/lateralus-lang/issues/263",
-    "reward": 300,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Claiming the lsp-hover-signatures bounty ($300) from BOUNTIES.md, per its rule: open a bounty <name issue before starting. Disclosure: I am an AI agent (OpenHands) working on behalf of K. I am happy to sign off the commits and hand the work over for human review; if you would rather not take agent contributions, say so and I will withdraw. What I have built (tests green locally): - A stdlib index() in lateralus lang/",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-21T03:04:45Z",
-    "updatedAt": "2026-11-27T13:32:45Z",
-    "freshnessHours": 156,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 69,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 77,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6623326884",
-    "externalId": "6623326884",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
-    "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
-    "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
-    "reward": 250,
-    "rewardNote": "USD · listed reward",
-    "competition": 5,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "help wanted",
-      "bounty"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Automated CI Conformance Mirror Notice : Automated Linux Kernel BPF Verifier Selftest Profile v6.12 multi-shard quorum issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $250 USDC - Companion Quorum Suite : https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/1 Calibrate VERIFIER DO",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-26T09:13:08Z",
-    "updatedAt": "2026-11-27T11:42:43Z",
-    "freshnessHours": 30,
+    "updatedAt": "2026-11-28T13:21:54Z",
+    "freshnessHours": 195,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 69,
@@ -737,73 +391,24 @@
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 82,
-      "competition": 76,
-      "clarity": 77,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6540385209",
-    "externalId": "6540385209",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "paraloom-labs/paraloom-core",
-    "title": "[BUG BOUNTY] Low: Shielded note secrets (amount + blinding) stored in plaintext in chrome.storage.local (paraloom-wallet)",
-    "url": "https://github.com/paraloom-labs/paraloom-core/issues/1646",
-    "reward": 3000,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      16,
-      40
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "warning",
-    "verification": "Maintainer review",
-    "description": "Summary The wallet stores its full shielded-note map — every note's exact amount , its per-note blinding secret, assetId / mint , commitment , and leafIndex — as plain JSON in chrome.storage.local under the key paraloom notes , keyed by the owner's shielded address. This is inconsistent with the wallet's own key handling: the seed vault is encrypted (scrypt + secretbox in keyManagement.ts ) and decrypted keys are kep",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T08:41:43Z",
-    "updatedAt": "2026-11-27T13:22:42Z",
-    "freshnessHours": 126,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 68,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 58,
-      "competition": 89,
+      "competition": 79,
       "clarity": 67,
       "urgency": 55
     }
   },
   {
-    "id": "github-6593660372",
-    "externalId": "6593660372",
+    "id": "github-6514636733",
+    "externalId": "6514636733",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
     "sourceDetail": "zhangjiayang6835-cyber/bounty-plaza",
-    "title": "[Bounty] ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof ",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4398",
-    "reward": 75,
+    "title": "[Bounty] bug: Fix JSON stream chunk ceiling and resolve recursive `$dynamicAnchor` scope ",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4376",
+    "reward": 218,
     "rewardNote": "USD · listed reward",
-    "competition": 6,
+    "competition": 4,
     "hours": [
       2,
       8
@@ -818,16 +423,264 @@
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "赏金平台 / Platform GitHub 原始链接 / Source URL https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2 漏洞描述 / Description ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof aggregation (zk-plonk-transcript-verifier) Automated CI Conformance Mirror Notice : Automated BN254 PLONK / KZG10 Transcript Conformance v1.2 multi-shard quorum issue; manual pull requests from human engineer",
+    "description": "赏金平台 / Platform GitHub 原始链接 / Source URL https://github.com/IES-BoilerRoom/json-schema-dynamicref-engine/issues/1 漏洞描述 / Description bug: Fix JSON stream chunk ceiling and resolve recursive $dynamicAnchor scope tag ( evaluate instance frames ) Reward: $175 USDC Automated CI Conformance Mirror Notice : Automated JSON Schema Draft 2020-12 Core & Validation regression runner issue; manual pull requests from human engine",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-24T23:39:11Z",
-    "updatedAt": "2026-11-27T12:12:43Z",
-    "freshnessHours": 63,
+    "createdAt": "2026-11-20T15:40:28Z",
+    "updatedAt": "2026-11-28T14:06:07Z",
+    "freshnessHours": 190,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 69,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 82,
+      "competition": 79,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6653035276",
+    "externalId": "6653035276",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "IES-BoilerRoom/wgsl-transcendental-math-core",
+    "title": "fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]",
+    "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2",
+    "reward": 200,
+    "rewardNote": "USD · listed reward",
+    "competition": 4,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "help wanted",
+      "bounty"
+    ],
+    "funded": true,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Automated CI Conformance Mirror Notice : Automated W3C WGSL Floating-Point Conformance §15.7 multi-shard quorum issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $200 USDC - Companion Quorum Suite : https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1 Calibrate PRECISION TIER ",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-27T19:14:48Z",
+    "updatedAt": "2026-11-28T14:06:06Z",
+    "freshnessHours": 19,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 69,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 82,
+      "competition": 79,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6514636911",
+    "externalId": "6514636911",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "zhangjiayang6835-cyber/bounty-plaza",
+    "title": "[Bounty] [150 USDC] Propagate sibling subschema annotations across `allOf` / `oneOf` bran",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4377",
+    "reward": 150,
+    "rewardNote": "USD · listed reward",
+    "competition": 4,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "bounty",
+      "real"
+    ],
+    "funded": true,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "赏金平台 / Platform GitHub 原始链接 / Source URL https://github.com/IES-BoilerRoom/json-schema-dynamicref-engine/issues/2 漏洞描述 / Description 150 USDC Propagate sibling subschema annotations across allOf / oneOf branches (json-schema-dynamicref-engine) Automated CI Conformance Mirror Notice : Automated JSON Schema Draft 2020-12 Core & Validation multi-shard quorum issue; manual pull requests from human engineers are not revie",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-20T15:40:29Z",
+    "updatedAt": "2026-11-28T14:06:10Z",
+    "freshnessHours": 190,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 69,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 82,
+      "competition": 79,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6653035132",
+    "externalId": "6653035132",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "IES-BoilerRoom/wgsl-transcendental-math-core",
+    "title": "($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frames)",
+    "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1",
+    "reward": 150,
+    "rewardNote": "USD · listed reward",
+    "competition": 4,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "help wanted",
+      "bounty"
+    ],
+    "funded": true,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Automated CI Conformance Mirror Notice : Automated W3C WGSL Floating-Point Conformance §15.7 regression runner issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $150 USDC (released automatically on green CI quorum) - Specification Shards : shards/spec 01.json .. shards/spec 64.json - Companion Q",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-27T19:14:47Z",
+    "updatedAt": "2026-11-28T14:06:09Z",
+    "freshnessHours": 19,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 69,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 82,
+      "competition": 79,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6504671389",
+    "externalId": "6504671389",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "bad-antics/lateralus-lang",
+    "title": "[bounty] stdlib.roaring tutorial: matching event IDs across the 16-bit boundary",
+    "url": "https://github.com/bad-antics/lateralus-lang/issues/231",
+    "reward": 25,
+    "rewardNote": "USD · listed reward",
+    "competition": 1,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "Open Source"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "I'd like to take the recurring $25 single-module tutorial for stdlib/roaring.ltl . The example will use two small sets of event IDs spanning the 65,535 / 65,536 boundary and check duplicate handling and membership against a fixed expected result. I'll run the example with the upstream interpreter at a pinned revision and include the command and expected output. This will be an AI-assisted contribution. Please mark th",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-20T04:17:15Z",
+    "updatedAt": "2026-11-28T13:21:52Z",
+    "freshnessHours": 202,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 69,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 58,
+      "competition": 100,
+      "clarity": 87,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6505837781",
+    "externalId": "6505837781",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "bad-antics/lateralus-lang",
+    "title": "[bounty] stdlib.rope tutorial: edit text without flattening first",
+    "url": "https://github.com/bad-antics/lateralus-lang/issues/239",
+    "reward": 25,
+    "rewardNote": "USD · listed reward",
+    "competition": 1,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "Open Source"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "The rope tutorial is delivered in 240. 232 is my earlier tutorial this quarter. Under the one-per-person quarterly limit, please consider at most one $25 reward across the two submissions. The module has a runnable implementation and I did not find an existing rope tutorial claim in the repository issues or pull requests. The delivery will cover building a rope, inserting and deleting text, splitting at a boundary, e",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-20T06:01:17Z",
+    "updatedAt": "2026-11-28T13:21:49Z",
+    "freshnessHours": 200,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 68,
@@ -835,9 +688,9 @@
     "agentReadiness": 0,
     "scoreBreakdown": {
       "aiFit": 58,
-      "payoutConfidence": 82,
-      "competition": 73,
-      "clarity": 67,
+      "payoutConfidence": 58,
+      "competition": 100,
+      "clarity": 77,
       "urgency": 55
     }
   },
@@ -876,56 +729,7 @@
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
     "createdAt": "2026-11-02T09:01:10Z",
     "updatedAt": "2026-11-20T16:40:25Z",
-    "freshnessHours": 606,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 67,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 100,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6647402321",
-    "externalId": "6647402321",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "freedom-winds/BountyScout",
-    "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-    "url": "https://github.com/freedom-winds/BountyScout/issues/1459",
-    "reward": 10000,
-    "rewardNote": "USD · listed reward",
-    "competition": 0,
-    "hours": [
-      16,
-      40
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "warning",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-27 13:28 UTC 1. QA — ASTEROIDS: polish pass (https://github.com/jalfern/retrogames/issues/3730) - Repository: jalfern/retrogames (https://github.com/jalfern/retrogames) - Comments: 2 - Last Updated: 2026-11-27T13:28:05Z 2. Request: comments rework (https://github.com/nextcloud/ios/issues/1626) - Repository: nextcloud/ios (https://github.com/nextcloud/ios) - Comments: 0 - ",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-27T13:28:52Z",
-    "updatedAt": "2026-11-27T13:36:24Z",
-    "freshnessHours": 2,
+    "freshnessHours": 629,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 67,
@@ -956,8 +760,8 @@
       3,
       12
     ],
-    "deadlineHours": 79,
-    "deadlineLabel": "3d 7h",
+    "deadlineHours": 56,
+    "deadlineLabel": "2d 8h",
     "tags": [
       "Content",
       "AI",
@@ -975,7 +779,7 @@
     ],
     "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
+    "updatedAt": "2026-11-28T14:08:41.267Z",
     "agentAccess": "HUMAN_ONLY",
     "sponsorVerified": true,
     "featured": false,
@@ -989,104 +793,6 @@
       "competition": 53,
       "clarity": 55,
       "urgency": 78
-    }
-  },
-  {
-    "id": "github-6542258370",
-    "externalId": "6542258370",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "bad-antics/lateralus-lang",
-    "title": "[bounty] aoc-2024-all-25 — question: who gets paid when days 1–3 already exist?",
-    "url": "https://github.com/bad-antics/lateralus-lang/issues/584",
-    "reward": 500,
-    "rewardNote": "USD · listed reward",
-    "competition": 3,
-    "hours": [
-      6,
-      18
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Question only — I am not claiming this bounty yet. The aoc-2024-all-25 bounty ($500) asks for all 25 Advent of Code 2024 solutions under examples/advent of code/2024/ , one file per day, with test inputs and expected outputs as @test blocks. Days 1–3 already exist in the repo. Who receives the $500 in that situation? - Is it the first person to submit a PR that completes all 25 (i.e. adds the remaining 22 days), even",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T12:16:52Z",
-    "updatedAt": "2026-11-27T13:12:48Z",
-    "freshnessHours": 123,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 67,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 83,
-      "clarity": 97,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6537394295",
-    "externalId": "6537394295",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "Ayush441-python/AUREN",
-    "title": "[Bug Bounty] Wallet import returns 502 for a valid Base address",
-    "url": "https://github.com/Ayush441-python/AUREN/issues/192",
-    "reward": 250,
-    "rewardNote": "USD · listed reward",
-    "competition": 5,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "On main at 7fc08a45 , Wallet Import returns HTTP 502 for a valid Base address before it looks up any balances. I reproduced this against the local FastAPI app with a synthetic wallet holding two NVDAc tokens at $125 each. Expected. HTTP 200, one holding worth $250, and portfolio: {\"NVDA\": 1.0} . The dashboard converts that fraction to 100%. Actual. The valid address returns 502 with wallet holdings() missing 1 requir",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T02:28:18Z",
-    "updatedAt": "2026-11-27T13:32:47Z",
-    "freshnessHours": 133,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 67,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 58,
-      "competition": 76,
-      "clarity": 87,
-      "urgency": 55
     }
   },
   {
@@ -1126,8 +832,8 @@
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
     "createdAt": "2026-10-20T04:15:47Z",
-    "updatedAt": "2026-11-27T14:33:42Z",
-    "freshnessHours": 923,
+    "updatedAt": "2026-11-28T08:16:44Z",
+    "freshnessHours": 946,
     "agentAccess": "UNKNOWN",
     "aiFit": 74,
     "score": 67,
@@ -1142,459 +848,16 @@
     }
   },
   {
-    "id": "github-6648830568",
-    "externalId": "6648830568",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "Tarsnap/tarsnap",
-    "title": "[bug bounty] multi-MB cached path triggers unbounded patricia recursion -> stack overflow (SIGSEGV)",
-    "url": "https://github.com/Tarsnap/tarsnap/issues/1033",
-    "reward": 100,
-    "rewardNote": "USD · listed reward",
-    "competition": 0,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Summary A chunkification-cache record's path length is attacker-controlled (it comes from the cache file). patricia insert() stores a key as a chain of MAXSLEN (232-byte) nodes, and patricia foreach() / patricia free() recurse once per node with no depth limit. A cache record with a multi-MB path therefore overflows the stack while reading/freeing the cache — even with --dry-run , i.e. before any backup work. Verifie",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-27T14:54:32Z",
-    "updatedAt": "2026-11-27T14:54:32Z",
-    "freshnessHours": 1,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 67,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 100,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6648829908",
-    "externalId": "6648829908",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "Tarsnap/tarsnap",
-    "title": "[bug bounty] negative cached size aborts every non-dry-run backup (ccache_write assertion)",
-    "url": "https://github.com/Tarsnap/tarsnap/issues/1032",
-    "reward": 100,
-    "rewardNote": "USD · listed reward",
-    "competition": 0,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Summary A chunkification-cache record with a negative size is accepted by ccache read() , and a normal (non-dry-run) backup then aborts in ccache write() 's assertion: Because the cache is written back at the end of a backup, the bad record persists and every subsequent -c aborts (dry-run is unaffected because ccache write() is skipped). Verified on master f600865e (1.0.41-head) with the stock Windows client and a Li",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-27T14:54:30Z",
-    "updatedAt": "2026-11-27T14:54:30Z",
-    "freshnessHours": 1,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 67,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 100,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6592428327",
-    "externalId": "6592428327",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "IES-BoilerRoom/zk-plonk-transcript-verifier",
-    "title": "($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof aggregation (zk-plonk-transcript-verifier)",
-    "url": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2",
-    "reward": 75,
-    "rewardNote": "USD · listed reward",
-    "competition": 7,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "help wanted",
-      "bounty"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Automated CI Conformance Mirror Notice : Automated BN254 PLONK / KZG10 Transcript Conformance v1.2 multi-shard quorum issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $75 USDC - Companion Quorum Suite : https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1 Calibrate TRANSCRIPT D",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-24T22:11:28Z",
-    "updatedAt": "2026-11-27T12:12:44Z",
-    "freshnessHours": 65,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 67,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 82,
-      "competition": 70,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6555534961",
-    "externalId": "6555534961",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "dev-kp-eloper/BountyScout",
-    "title": "🎯 Bounty Alert: 5 New Opportunityies found",
-    "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1797",
-    "reward": 250,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-23 08:42 UTC 1. Security testing programme and bypass regression suite (https://github.com/jusso-dev/palisade/issues/230) - Repository: jusso-dev/palisade (https://github.com/jusso-dev/palisade) - Comments: 0 - Last Updated: 2026-11-23T08:42:14Z 2. bounty LTLNumber cannot add an exact Fraction and a terminating Decimal (https://github.com/bad-antics/lateralus-lang/issues/",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-23T08:42:21Z",
-    "updatedAt": "2026-11-27T13:12:43Z",
-    "freshnessHours": 102,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 66,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 77,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6555567536",
-    "externalId": "6555567536",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "Rohank143/BountyScout",
-    "title": "🎯 Bounty Alert: 6 New Opportunityies found",
-    "url": "https://github.com/Rohank143/BountyScout/issues/139",
-    "reward": 250,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-23 08:44 UTC 1. 🎯 Bounty Alert: 5 New Opportunityies found (https://github.com/dev-kp-eloper/BountyScout/issues/1797) - Repository: dev-kp-eloper/BountyScout (https://github.com/dev-kp-eloper/BountyScout) - Comments: 0 - Last Updated: 2026-11-23T08:42:21Z 2. Security testing programme and bypass regression suite (https://github.com/jusso-dev/palisade/issues/230) - Reposi",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-23T08:44:39Z",
-    "updatedAt": "2026-11-27T12:52:46Z",
-    "freshnessHours": 102,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 66,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 77,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6608583380",
-    "externalId": "6608583380",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "zhangjiayang6835-cyber/bounty-plaza",
-    "title": "[Bounty] Bounty program: community detection/DLP rules with corpus fixtures",
-    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4400",
-    "reward": 125,
-    "rewardNote": "USD · listed reward",
-    "competition": 4,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty",
-      "real"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "赏金平台 / Platform GitHub 原始链接 / Source URL https://github.com/blitzcrieg1/agentmetry/issues/454 漏洞描述 / Description Bounty program: community detection/DLP rules with corpus fixtures Detection rule bounty program Agentmetry's detection engine is only as good as its rules. This program turns the open detection-rule / dlp-rule issues (tagged bounty ) into a community contribution track with a defined bar, so anyone can sh",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-25T16:08:24Z",
-    "updatedAt": "2026-11-27T12:02:44Z",
-    "freshnessHours": 47,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 66,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 58,
-      "competition": 79,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6413316705",
-    "externalId": "6413316705",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "bshelby88/raen-bounties",
-    "title": "BOUNTY-07: Test suite for the settlement-collector claim-code flow (RAEN-8922B9225B pattern)",
-    "url": "https://github.com/bshelby88/raen-bounties/issues/20",
-    "reward": 30,
-    "rewardNote": "USD · listed reward",
-    "competition": 5,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Bounty: Write the missing test suite for the settlement-collector claim-code flow — the code path that turns an on-chain settlement into a redeemable claim code (the RAEN-8922B9225B pattern: RAEN- prefix + 12 hex chars), so claim fulfillment can't regress silently. Target repo: https://github.com/bshelby88/settlement-collector (see /claims endpoints and claim-code issuance/redemption logic) Acceptance: - Runnable tes",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-16T03:08:03Z",
-    "updatedAt": "2026-11-27T08:39:23Z",
-    "freshnessHours": 276,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 66,
-    "score": 66,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 66,
-      "payoutConfidence": 58,
-      "competition": 76,
-      "clarity": 77,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6515263141",
-    "externalId": "6515263141",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "Ayush441-python/AUREN",
-    "title": "[Maths Bounty] Missing AAPL closes shift unrelated MSFT liquidity 30 sessions into the past",
-    "url": "https://github.com/Ayush441-python/AUREN/issues/159",
-    "reward": 1000000,
-    "rewardNote": "USD · listed reward",
-    "competition": 3,
-    "hours": [
-      16,
-      40
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Observed The Liquidity tab can silently move the 30-session calculation backward for an unrelated holding. In a local Streamlit AppTest on main commit 22d21fdfd29778c0c0dbd857853b41a13fb765fc, I held all 60 MSFT prices, all 60 MSFT volumes, weights, portfolio size and participation rate fixed. Removing only the 30 latest AAPL closes flipped MSFT's label from Illiquid to Instant. | Inputs | MSFT 30D daily traded | MSF",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-20T16:17:12Z",
-    "updatedAt": "2026-11-27T13:32:46Z",
-    "freshnessHours": 167,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 65,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 83,
-      "clarity": 77,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6538282507",
-    "externalId": "6538282507",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "paraloom-labs/paraloom-core",
-    "title": "[BOUNTY] Low: wallet settlement signal is any recipient-balance rise, so dust + failed settlement falsely marks inputs spent with no self-heal",
-    "url": "https://github.com/paraloom-labs/paraloom-core/issues/1632",
-    "reward": 3000,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      16,
-      40
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Severity guess: Low CVSS 3.1: 4.2 — CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:L/A:L CWE: CWE-697 (Incorrect Comparison) Program: Paraloom (paraloom-labs/paraloom-core), Stage 1 DEVNET, pool $3,000 USDC Component: paraloom-wallet ( paraloom-wallet/src/popup/Home.tsx , lib/paraloom/transactFlow.ts ), HEAD 9e8c8e6 Reporter: Ryan Mahrez (Ryanmahrez44) — ryanmahrezzzz@gmail.com Researcher payout wallet (EVM USDC): 0xEA56caBc",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T04:08:49Z",
-    "updatedAt": "2026-11-27T13:22:43Z",
-    "freshnessHours": 131,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 65,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6548740753",
-    "externalId": "6548740753",
+    "id": "github-6542053124",
+    "externalId": "6542053124",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
     "sourceDetail": "bad-antics/lateralus-lang",
-    "title": "[bounty] lt-logs-shipper",
-    "url": "https://github.com/bad-antics/lateralus-lang/issues/806",
-    "reward": 350,
+    "title": "[Bounty Claim] Tutorial: stdlib/dijkstra.ltl - Edsger Dijkstra's Shortest Path Algorithm & Edge Relaxation",
+    "url": "https://github.com/bad-antics/lateralus-lang/issues/567",
+    "reward": 25,
     "rewardNote": "USD · listed reward",
     "competition": 2,
     "hours": [
@@ -1610,335 +873,187 @@
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "Claiming the lt-logs-shipper bounty ($350) per BOUNTIES.md. Plan: single-file apps/lt logs.ltl CLI — stdin log ingestion (logfmt/JSON/syslog RFC 5424), DSL filter (regex, field-equals, aho-corasick), 1-minute rollups, Parquet or compressed JSON-lines output, optional ChaCha20-Poly1305 via --key. Will wire existing stdlib modules only; PR to follow.",
+    "description": "Summary Claiming the $25 tutorial bounty per BOUNTIES.md for stdlib/dijkstra.ltl (Edsger W. Dijkstra's 1956 Single-Source Shortest Path (SSSP) algorithm, edge relaxation invariants, greedy frontier expansion, and route reconstruction). Planned Deliverables 1. docs/blog/stdlib-dijkstra-tutorial.md : Theoretical analysis of greedy choice property, triangle inequality relaxation $d v \\le d u + w(u, v)$, non-negative wei",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T22:39:43Z",
-    "updatedAt": "2026-11-27T13:12:45Z",
-    "freshnessHours": 112,
+    "createdAt": "2026-11-22T11:53:50Z",
+    "updatedAt": "2026-11-28T13:03:34Z",
+    "freshnessHours": 146,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
-    "score": 65,
+    "score": 67,
     "rating": "B",
     "agentReadiness": 0,
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 58,
       "competition": 89,
-      "clarity": 67,
+      "clarity": 87,
       "urgency": 55
     }
   },
   {
-    "id": "github-6554313178",
-    "externalId": "6554313178",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "freedom-winds/BountyScout",
-    "title": "🎯 Bounty Alert: 11 New Opportunityies found",
-    "url": "https://github.com/freedom-winds/BountyScout/issues/1448",
-    "reward": 250,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-23 07:18 UTC 1. Split AVAX locked stake out of the total (https://github.com/tradermarketcap/tradermarketcap-open/issues/9) - Repository: tradermarketcap/tradermarketcap-open (https://github.com/tradermarketcap/tradermarketcap-open) - Comments: 2 - Last Updated: 2026-11-23T07:17:43Z 2. GPT → Muse 提交 token-radar-01 正式参赛作品并核对回执 (https://github.com/pilgrimmeng/token-radar-re",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-23T07:18:12Z",
-    "updatedAt": "2026-11-27T13:02:46Z",
-    "freshnessHours": 104,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 65,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6592428189",
-    "externalId": "6592428189",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "IES-BoilerRoom/zk-plonk-transcript-verifier",
-    "title": "ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC",
-    "url": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1",
-    "reward": 175,
-    "rewardNote": "USD · listed reward",
-    "competition": 13,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "help wanted",
-      "bounty"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Automated CI Conformance Mirror Notice : Automated BN254 PLONK / KZG10 Transcript Conformance v1.2 regression runner issue; manual pull requests from human engineers are not reviewed on this mirror. - Settlement Rail : https://algora.io / https://polar.sh / https://opire.dev - Allocation : $175 USDC (released automatically on green CI quorum) - Specification Shards : shards/spec 01.json .. shards/spec 64.json - Compa",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-24T22:11:27Z",
-    "updatedAt": "2026-11-27T12:02:43Z",
-    "freshnessHours": 65,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 65,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 82,
-      "competition": 61,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6538183919",
-    "externalId": "6538183919",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "paraloom-labs/paraloom-core",
-    "title": "[BOUNTY] Medium: slash_validator double-decrements registry stake counters for a reset-excluded orphan, halting settlement quorum",
-    "url": "https://github.com/paraloom-labs/paraloom-core/issues/1631",
-    "reward": 150,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "Open Source"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Severity guess: Medium (≤$150 USDC — on-chain accounting divergence / liveness halt of settlement, per docs/bug-bounty.md ). CVSS 3.1: 5.0 Medium ( AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:L/A:H ). Honest likelihood: ~15–25% (lowered on independent verification, 22 Nov 2026 — see below). Duplicate check (22 Nov 2026, corrected after independent verification): not a word-for-word repeat of any available source. 1625 claims the s",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T03:57:28Z",
-    "updatedAt": "2026-11-27T13:22:47Z",
-    "freshnessHours": 131,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 65,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6545921410",
-    "externalId": "6545921410",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "freedom-winds/BountyScout",
-    "title": "🎯 Bounty Alert: 18 New Opportunityies found",
-    "url": "https://github.com/freedom-winds/BountyScout/issues/1446",
-    "reward": 125,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-22 18:13 UTC 1. Bounty Claim Tutorial: stdlib/palindromic tree.ltl - Rubinchik-Shur Palindromic Tree (PAM) & Linear O(n) Palindrome Indexing (https://github.com/bad-antics/lateralus-lang/issues/716) - Repository: bad-antics/lateralus-lang (https://github.com/bad-antics/lateralus-lang) - Comments: 0 - Last Updated: 2026-11-22T18:10:46Z 2. RFC : First-class disk-backed offl",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T18:13:09Z",
-    "updatedAt": "2026-11-27T13:12:47Z",
-    "freshnessHours": 117,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 65,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6545979615",
-    "externalId": "6545979615",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "dev-kp-eloper/BountyScout",
-    "title": "🎯 Bounty Alert: 16 New Opportunityies found",
-    "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1795",
-    "reward": 125,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-22 18:18 UTC 1. Bounty Claim Tutorial: stdlib/convex hull trick.ltl - Li Chao Segment Tree (CHT) & O(log C) Dynamic Line Optimization (https://github.com/bad-antics/lateralus-lang/issues/719) - Repository: bad-antics/lateralus-lang (https://github.com/bad-antics/lateralus-lang) - Comments: 0 - Last Updated: 2026-11-22T18:14:51Z 2. Bounty (1): Suggest a better cute name fo",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T18:18:54Z",
-    "updatedAt": "2026-11-27T13:12:46Z",
-    "freshnessHours": 117,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 65,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6546009766",
-    "externalId": "6546009766",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "Rohank143/BountyScout",
-    "title": "🎯 Bounty Alert: 16 New Opportunityies found",
-    "url": "https://github.com/Rohank143/BountyScout/issues/137",
-    "reward": 125,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty-alert"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Active Bounty Scan Results Scan Time: 2026-11-22 18:21 UTC 1. 🎯 Bounty Alert: 16 New Opportunityies found (https://github.com/dev-kp-eloper/BountyScout/issues/1795) - Repository: dev-kp-eloper/BountyScout (https://github.com/dev-kp-eloper/BountyScout) - Comments: 0 - Last Updated: 2026-11-22T18:18:54Z 2. Bounty Claim Tutorial: stdlib/convex hull trick.ltl - Li Chao Segment Tree (CHT) & O(log C) Dynamic Line Optimiza",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T18:21:45Z",
-    "updatedAt": "2026-11-27T13:02:45Z",
-    "freshnessHours": 117,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 65,
-    "rating": "B",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6541686442",
-    "externalId": "6541686442",
+    "id": "github-6504969002",
+    "externalId": "6504969002",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
     "sourceDetail": "Ayush441-python/AUREN",
-    "title": "[Bug Bounty] Rounding exit times marks an over-cap position as sellable in one day and selects the wrong slowest ticker",
-    "url": "https://github.com/Ayush441-python/AUREN/issues/202",
-    "reward": 10000000,
+    "title": "[Maths Bounty] Exactly 30% annualized volatility adds 20 risk points (50 Medium → 70 High)",
+    "url": "https://github.com/Ayush441-python/AUREN/issues/146",
+    "reward": 50,
+    "rewardNote": "USD · listed reward",
+    "competition": 2,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "Open Source"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Summary A price series with mathematically exact 30% annualized volatility receives the vol 0.30 penalty because floating-point rounding produces 0.3000000000000001 . This adds 20 risk points , changing 50 / Medium to 70 / High . Category: bug / Maths Bounty . I am submitting this reproducible calculation error for consideration under the published $50 USDC Maths Bounty in BOUNTY.MD (https://github.com/Ayush441-pytho",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-20T04:44:39Z",
+    "updatedAt": "2026-11-28T13:21:50Z",
+    "freshnessHours": 201,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 65,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 58,
+      "competition": 89,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6503215059",
+    "externalId": "6503215059",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "Rohank143/BountyScout",
+    "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+    "url": "https://github.com/Rohank143/BountyScout/issues/127",
+    "reward": 35,
+    "rewardNote": "USD · listed reward",
+    "competition": 2,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "bounty-alert"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Active Bounty Scan Results Scan Time: 2026-11-20 02:08 UTC 1. 🪙 Web3 Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory (https://github.com/alfrexo95/bounty-bot/issues/96) - Repository: alfrexo95/bounty-bot (https://github.com/alfrexo95/bounty-bot) - Comments: 1 - Last Updated: 2026-11-20T02:07:09Z 2. 🎯 Bounty Alert: 12 New Opportunityies found (https://github.com/dev-kp-eloper/BountyScout/issues/1784) - Repository:",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-20T02:08:36Z",
+    "updatedAt": "2026-11-28T13:22:08Z",
+    "freshnessHours": 204,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 65,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 58,
+      "competition": 89,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6541927555",
+    "externalId": "6541927555",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "bad-antics/lateralus-lang",
+    "title": "[Bounty Claim] Tutorial: stdlib/bsearch.ltl - Binary Search, Lower/Upper Bounds & Partition Invariants",
+    "url": "https://github.com/bad-antics/lateralus-lang/issues/559",
+    "reward": 25,
+    "rewardNote": "USD · listed reward",
+    "competition": 3,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "Open Source"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Summary Claiming the $25 tutorial bounty per BOUNTIES.md for stdlib/bsearch.ltl (Logarithmic $O(\\log N)$ binary search, lower bound $\\ge x$, upper bound $ x$, duplicate rank isolation, and integer midpoint overflow prevention). Planned Deliverables 1. docs/blog/stdlib-bsearch-tutorial.md : Discrete binary search invariants, partition point properties on monotone predicates, edge condition correctness ($low \\le high$ ",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-22T11:39:33Z",
+    "updatedAt": "2026-11-28T13:03:33Z",
+    "freshnessHours": 146,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 65,
+    "rating": "B",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 58,
+      "competition": 83,
+      "clarity": 77,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6508854292",
+    "externalId": "6508854292",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "freedom-winds/BountyScout",
+    "title": "🎯 Bounty Alert: 19 New Opportunityies found",
+    "url": "https://github.com/freedom-winds/BountyScout/issues/1437",
+    "reward": 6000,
     "rewardNote": "USD · listed reward",
     "competition": 3,
     "hours": [
@@ -1948,22 +1063,22 @@
     "deadlineHours": null,
     "deadlineLabel": "Open",
     "tags": [
-      "Open Source"
+      "bounty-alert"
     ],
     "funded": false,
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "On 7adde0bb , a fully priced, positive-volume portfolio can get a green one-day liquidity message even though one holding exceeds the specified daily trading capacity. The same rounding can make the dashboard name a faster asset as the slowest. Use a $2,000,000 portfolio with weights {\"MSFT\": 499, \"AAPL\": 501} , 10% participation, and 30 observations of $100/share and 100,000 shares/day for both tickers. Each has $10",
+    "description": "Active Bounty Scan Results Scan Time: 2026-11-20 09:40 UTC 1. node: RequestAndCreateLease returns the local chain tip instead of the created lease block's hash — race yields wrong lease identifier (https://github.com/xeprotocol/xe/issues/936) - Repository: xeprotocol/xe (https://github.com/xeprotocol/xe) - Comments: 0 - Last Updated: 2026-11-20T09:39:54Z 2. Bounty $6k SDK Add automatic gas estimation with safety marg",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T11:11:17Z",
-    "updatedAt": "2026-11-27T13:12:48Z",
-    "freshnessHours": 124,
+    "createdAt": "2026-11-20T09:40:33Z",
+    "updatedAt": "2026-11-28T13:21:51Z",
+    "freshnessHours": 196,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 64,
@@ -1978,18 +1093,18 @@
     }
   },
   {
-    "id": "github-6524456352",
-    "externalId": "6524456352",
+    "id": "github-6510126880",
+    "externalId": "6510126880",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
-    "sourceDetail": "adityasaxena15/bounty-hunter",
-    "title": "Bounty digest 2026-11-21",
-    "url": "https://github.com/adityasaxena15/bounty-hunter/issues/1",
-    "reward": 9300,
+    "sourceDetail": "dev-kp-eloper/BountyScout",
+    "title": "🎯 Bounty Alert: 16 New Opportunityies found",
+    "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1785",
+    "reward": 6000,
     "rewardNote": "USD · listed reward",
-    "competition": 6,
+    "competition": 3,
     "hours": [
       16,
       40
@@ -1997,31 +1112,80 @@
     "deadlineHours": null,
     "deadlineLabel": "Open",
     "tags": [
-      "Open Source"
+      "bounty-alert"
     ],
     "funded": false,
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "Top 10 picks as of 2026-11-21 04:31 UTC. Full list: BOUNTIES.md - $4,700 — ClankerNation/OpenAgents — https://github.com/ClankerNation/OpenAgents/issues/82 (3 comments) - $8,700 — ClankerNation/OpenAgents — https://github.com/ClankerNation/OpenAgents/issues/78 (5 comments) - $6,600 — ClankerNation/OpenAgents — https://github.com/ClankerNation/OpenAgents/issues/49 (5 comments) - $3,800 — ClankerNation/OpenAgents — htt",
+    "description": "Active Bounty Scan Results Scan Time: 2026-11-20 11:03 UTC 1. node: RequestAndCreateLease returns the local chain tip instead of the created lease block's hash — race yields wrong lease identifier (https://github.com/xeprotocol/xe/issues/936) - Repository: xeprotocol/xe (https://github.com/xeprotocol/xe) - Comments: 2 - Last Updated: 2026-11-20T11:00:31Z 2. bounty bug-report: Dual. pow returns 0.0 for every constant-",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-21T04:31:59Z",
-    "updatedAt": "2026-11-27T13:32:43Z",
-    "freshnessHours": 154,
+    "createdAt": "2026-11-20T11:03:07Z",
+    "updatedAt": "2026-11-28T13:21:45Z",
+    "freshnessHours": 195,
     "agentAccess": "UNKNOWN",
-    "aiFit": 66,
+    "aiFit": 58,
     "score": 64,
     "rating": "C",
     "agentReadiness": 0,
     "scoreBreakdown": {
-      "aiFit": 66,
+      "aiFit": 58,
       "payoutConfidence": 58,
-      "competition": 73,
+      "competition": 83,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6498221323",
+    "externalId": "6498221323",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "Rohank143/BountyScout",
+    "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+    "url": "https://github.com/Rohank143/BountyScout/issues/126",
+    "reward": 4000,
+    "rewardNote": "USD · listed reward",
+    "competition": 3,
+    "hours": [
+      16,
+      40
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "bounty-alert"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Active Bounty Scan Results Scan Time: 2026-11-19 20:16 UTC 1. 🎯 Bounty Alert: 11 New Opportunityies found (https://github.com/dev-kp-eloper/BountyScout/issues/1783) - Repository: dev-kp-eloper/BountyScout (https://github.com/dev-kp-eloper/BountyScout) - Comments: 0 - Last Updated: 2026-11-19T20:12:11Z 2. CRITICAL: Attribution & Wave Bounty Dispute on PR 218 (Issues 209- 212) — Forensic Audit Trail (https://github.co",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-19T20:16:44Z",
+    "updatedAt": "2026-11-28T13:22:10Z",
+    "freshnessHours": 210,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 64,
+    "rating": "C",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 58,
+      "competition": 83,
       "clarity": 67,
       "urgency": 55
     }
@@ -2064,7 +1228,7 @@
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
     "createdAt": "2026-07-13T03:48:37Z",
     "updatedAt": "2026-09-06T17:42:48Z",
-    "freshnessHours": 3299,
+    "freshnessHours": 3322,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 64,
@@ -2075,57 +1239,6 @@
       "payoutConfidence": 58,
       "competition": 83,
       "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6481556109",
-    "externalId": "6481556109",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "relayhop/sn-monetization-runtime",
-    "title": "[radar] SN open bounty 2026-11-19T03:13",
-    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1424",
-    "reward": 2026,
-    "rewardNote": "USD · listed reward",
-    "competition": 2,
-    "hours": [
-      16,
-      40
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "radar",
-      "sn",
-      "bounty"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "New SN OPEN BOUNTY detected:",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-19T03:13:51Z",
-    "updatedAt": "2026-11-27T08:22:52Z",
-    "freshnessHours": 204,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 64,
-    "rating": "C",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 89,
-      "clarity": 55,
       "urgency": 55
     }
   },
@@ -2141,13 +1254,13 @@
     "url": "https://superteam.fun/earn/listing/build-an-autonomous-capital-agent-on-solana-and-compete-for-dollar500-in-rewards",
     "reward": 500,
     "rewardNote": "USDC · fixed",
-    "competition": 26,
+    "competition": 29,
     "hours": [
       3,
       12
     ],
-    "deadlineHours": 656,
-    "deadlineLabel": "27d 8h",
+    "deadlineHours": 633,
+    "deadlineLabel": "26d 9h",
     "tags": [
       "Development",
       "Design",
@@ -2166,7 +1279,7 @@
     ],
     "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
+    "updatedAt": "2026-11-28T14:08:41.267Z",
     "agentAccess": "HUMAN_ONLY",
     "sponsorVerified": false,
     "featured": false,
@@ -2177,21 +1290,21 @@
     "scoreBreakdown": {
       "aiFit": 74,
       "payoutConfidence": 66,
-      "competition": 50,
+      "competition": 49,
       "clarity": 55,
       "urgency": 62
     }
   },
   {
-    "id": "github-6552045333",
-    "externalId": "6552045333",
+    "id": "github-6503303746",
+    "externalId": "6503303746",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
-    "sourceDetail": "bad-antics/lateralus-lang",
-    "title": "[bounty] aoc-2024-all-25",
-    "url": "https://github.com/bad-antics/lateralus-lang/issues/831",
+    "sourceDetail": "Ayush441-python/AUREN",
+    "title": "[Maths Bounty] days_to_exit() evaluates to negative liquidation time for short positions",
+    "url": "https://github.com/Ayush441-python/AUREN/issues/137",
     "reward": 500,
     "rewardNote": "USD · listed reward",
     "competition": 3,
@@ -2208,16 +1321,16 @@
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "Claiming bounty aoc-2024-all-25 ($500) per BOUNTIES.md, as it requires an issue titled bounty <name before starting. Progress PR with 22 of 25 days: https://github.com/bad-antics/lateralus-lang/pull/830 | Day | Puzzle | Part 1 | Part 2 | |---|---|---|---| | 4 | Ceres Search | 4 / 18 | 9 | | 5 | Print Queue | 143 | 123 | | 6 | Guard Gallivant | 41 | 6 | | 7 | Bridge Repair | 3749 | 11195 | | 8 | Resonant Collinearity ",
+    "description": "Summary In engine/liquidity.py , days to exit() calculates the required trading days to unwind portfolio positions under a specified market volume participation rate. When a portfolio contains short positions ( position values < 0 ), the function evaluates to negative days (e.g., -1.0 or -25.0 days). Physical liquidation duration is strictly non-negative ($T \\ge 0$). Calculating negative liquidation horizons breaks p",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-23T04:07:09Z",
-    "updatedAt": "2026-11-27T13:12:44Z",
-    "freshnessHours": 107,
+    "createdAt": "2026-11-20T02:16:06Z",
+    "updatedAt": "2026-11-28T13:22:00Z",
+    "freshnessHours": 204,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 64,
@@ -2232,18 +1345,18 @@
     }
   },
   {
-    "id": "github-6561862690",
-    "externalId": "6561862690",
+    "id": "github-6511754922",
+    "externalId": "6511754922",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
-    "sourceDetail": "bad-antics/lateralus-lang",
-    "title": "[bounty] benchmark-ingest — stdlib micro-benchmarks (xxhash64 / lz4 / chacha20 / aho_corasick / radix_sort)",
-    "url": "https://github.com/bad-antics/lateralus-lang/issues/865",
-    "reward": 250,
+    "sourceDetail": "paraloom-labs/paraloom-core",
+    "title": "[BOUNTY] Medium: deactivate_validator double-decrements registry stake counters when reconciling accounts excluded by reset_validator_registry, halting settlement quorum",
+    "url": "https://github.com/paraloom-labs/paraloom-core/issues/1625",
+    "reward": 150,
     "rewardNote": "USD · listed reward",
-    "competition": 4,
+    "competition": 3,
     "hours": [
       2,
       8
@@ -2257,16 +1370,16 @@
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "Claiming the recurring bounty benchmark-ingest ($250). Working state (verifiable now): Reference implementations done — benchmarks/reference/stdlib bench.py and stdlib bench.js implement all five workloads with identical input generators (XorShift32, same seeds) and identical algorithms: | | workload | size | |---|---|---| | 1 | xxhash64 | 2 MB | | 2 | lz4 compress + decompress round-trip | 4 MB | | 3 | chacha20 keys",
+    "description": "deactivate validator Double-Decrements Registry Stake Counters When Reconciling Accounts Excluded by reset validator registry , Halting Settlement Quorum Program: Paraloom Bug Bounty — Stage 1 (Solana devnet) Program ID: 8gPsRSm1CAw38mfzc1bcLMUXyFN7LnS8k6CV5hPUTWrP Target Commit: 9e8c8e6d403a4793b841ac1c569eefd11d60c9ad (upstream/main) Severity: Medium (Stage 1: up to $150 USDC — on-chain accounting divergence & live",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-23T14:45:27Z",
-    "updatedAt": "2026-11-27T12:52:44Z",
-    "freshnessHours": 96,
+    "createdAt": "2026-11-20T12:50:36Z",
+    "updatedAt": "2026-11-28T13:21:53Z",
+    "freshnessHours": 193,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 64,
@@ -2275,22 +1388,72 @@
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 58,
-      "competition": 79,
-      "clarity": 77,
+      "competition": 83,
+      "clarity": 67,
       "urgency": 55
     }
   },
   {
-    "id": "github-6541529584",
-    "externalId": "6541529584",
+    "id": "github-6608583380",
+    "externalId": "6608583380",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
-    "sourceDetail": "Ayush441-python/AUREN",
-    "title": "[Bug Bounty] Built-in ticker groups understate the default portfolio’s Big Tech stress loss by $800 on $10,000",
-    "url": "https://github.com/Ayush441-python/AUREN/issues/201",
-    "reward": 10000,
+    "sourceDetail": "zhangjiayang6835-cyber/bounty-plaza",
+    "title": "[Bounty] Bounty program: community detection/DLP rules with corpus fixtures",
+    "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4400",
+    "reward": 125,
+    "rewardNote": "USD · listed reward",
+    "competition": 7,
+    "hours": [
+      2,
+      8
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "bounty",
+      "real"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "赏金平台 / Platform GitHub 原始链接 / Source URL https://github.com/blitzcrieg1/agentmetry/issues/454 漏洞描述 / Description Bounty program: community detection/DLP rules with corpus fixtures Detection rule bounty program Agentmetry's detection engine is only as good as its rules. This program turns the open detection-rule / dlp-rule issues (tagged bounty ) into a community contribution track with a defined bar, so anyone can sh",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-11-25T16:08:24Z",
+    "updatedAt": "2026-11-28T07:14:30Z",
+    "freshnessHours": 70,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 66,
+    "score": 64,
+    "rating": "C",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 66,
+      "payoutConfidence": 58,
+      "competition": 70,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "github-6498142362",
+    "externalId": "6498142362",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "dev-kp-eloper/BountyScout",
+    "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+    "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1783",
+    "reward": 4000,
     "rewardNote": "USD · listed reward",
     "competition": 4,
     "hours": [
@@ -2300,22 +1463,22 @@
     "deadlineHours": null,
     "deadlineLabel": "Open",
     "tags": [
-      "Open Source"
+      "bounty-alert"
     ],
     "funded": false,
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "The default portfolio can show two different losses for the same 20% Big Tech shock. The preset uses the risk engine’s classification. The custom slider uses a different classification if the page’s initial GET /universe fails and its subsequent /risk request succeeds. Reproduction 1. Use the web frontend’s default Balanced Tech & Crypto portfolio with a value of $10,000. The weights are NVDA 40%, MSFT 30%, GOOGL 20%",
+    "description": "Active Bounty Scan Results Scan Time: 2026-11-19 20:12 UTC 1. CRITICAL: Attribution & Wave Bounty Dispute on PR 218 (Issues 209- 212) — Forensic Audit Trail (https://github.com/Orbit-xyz/Orbit/issues/220) - Repository: Orbit-xyz/Orbit (https://github.com/Orbit-xyz/Orbit) - Comments: 4 - Last Updated: 2026-11-19T20:11:34Z 2. @elastic/eui-docusaurus-theme-1.0.0.tgz: 282 vulnerabilities (highest severity is: 9.8) main (",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-22T10:53:54Z",
-    "updatedAt": "2026-11-27T13:22:45Z",
-    "freshnessHours": 124,
+    "createdAt": "2026-11-19T20:12:11Z",
+    "updatedAt": "2026-11-28T13:22:11Z",
+    "freshnessHours": 210,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 63,
@@ -2330,21 +1493,21 @@
     }
   },
   {
-    "id": "github-6576854101",
-    "externalId": "6576854101",
+    "id": "github-6541686442",
+    "externalId": "6541686442",
     "type": "bounty",
     "status": "active",
     "source": "GH",
     "sourceName": "GitHub",
-    "sourceDetail": "Tarsnap/tarsnap",
-    "title": "[bug bounty] chunk directory can be silently rebuilt incomplete; deleting an old archive destroys a newer one",
-    "url": "https://github.com/Tarsnap/tarsnap/issues/1025",
-    "reward": 1000,
+    "sourceDetail": "Ayush441-python/AUREN",
+    "title": "[Bug Bounty] Rounding exit times marks an over-cap position as sellable in one day and selects the wrong slowest ticker",
+    "url": "https://github.com/Ayush441-python/AUREN/issues/202",
+    "reward": 10000000,
     "rewardNote": "USD · listed reward",
     "competition": 6,
     "hours": [
-      6,
-      18
+      16,
+      40
     ],
     "deadlineHours": null,
     "deadlineLabel": "Open",
@@ -2355,16 +1518,16 @@
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "Tarsnap client 1.0.41 and current master (f600865e2cdd784714d33fa53d78248ff9067e8e) Summary ------- The cachedir's chunk directory ( <cachedir /directory ) is a local, checksum-free file which the client treats as the authoritative record of each chunk's compressed length ( zlen ) and reference count ( nrefs ). A single-bit error in either field is accepted by chunks directory read() and is then used by normal create",
+    "description": "On 7adde0bb , a fully priced, positive-volume portfolio can get a green one-day liquidity message even though one holding exceeds the specified daily trading capacity. The same rounding can make the dashboard name a faster asset as the slowest. Use a $2,000,000 portfolio with weights {\"MSFT\": 499, \"AAPL\": 501} , 10% participation, and 30 observations of $100/share and 100,000 shares/day for both tickers. Each has $10",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
       "Passing repository checks"
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-24T07:28:34Z",
-    "updatedAt": "2026-11-27T13:19:00Z",
-    "freshnessHours": 80,
+    "createdAt": "2026-11-22T11:11:17Z",
+    "updatedAt": "2026-11-28T14:02:59Z",
+    "freshnessHours": 147,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 62,
@@ -2375,56 +1538,6 @@
       "payoutConfidence": 58,
       "competition": 73,
       "clarity": 67,
-      "urgency": 55
-    }
-  },
-  {
-    "id": "github-6284723684",
-    "externalId": "6284723684",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "blackcode-ch/tmx-go-public",
-    "title": "[Bounty: USD 80] Fix the Windows recorded-host stop race",
-    "url": "https://github.com/blackcode-ch/tmx-go-public/issues/1",
-    "reward": 80,
-    "rewardNote": "USD · listed reward",
-    "competition": 7,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bug",
-      "help wanted"
-    ],
-    "funded": false,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Bounty: USD 80 Fix the Windows recorded-host stop race Price: USD 80 , one accepted PR. Problem and scope In internal/runner/host/host test.go , TestStopEndsTheRecordedHost has been reported to fail on Windows with stop: gone=false Access is denied . In internal/runner/host/client.go , Stop immediately rechecks liveness after a failed host kill. Investigate whether Windows is still completing process exit and fix the",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-11-09T10:55:54Z",
-    "updatedAt": "2026-11-27T14:22:00Z",
-    "freshnessHours": 436,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 62,
-    "rating": "C",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 58,
-      "competition": 70,
-      "clarity": 77,
       "urgency": 55
     }
   },
@@ -2463,7 +1576,7 @@
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
     "createdAt": "2026-11-01T13:14:41Z",
     "updatedAt": "2026-11-20T16:40:21Z",
-    "freshnessHours": 626,
+    "freshnessHours": 649,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 60,
@@ -2489,13 +1602,13 @@
     "url": "https://ai-agents-founders-hetic-26.devpost.com/",
     "reward": 1000,
     "rewardNote": "USD · prize pool",
-    "competition": 597,
+    "competition": 606,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 504,
-    "deadlineLabel": "21 days left",
+    "deadlineHours": 480,
+    "deadlineLabel": "20 days left",
     "tags": [
       "Low/No Code",
       "Machine Learning/AI",
@@ -2513,8 +1626,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 597,
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 606,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 66,
@@ -2530,6 +1643,57 @@
     }
   },
   {
+    "id": "github-2877962898",
+    "externalId": "2877962898",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "Spectral-Finance/lux",
+    "title": "Web3 Authentication and Authorization Framework $1,000",
+    "url": "https://github.com/Spectral-Finance/lux/issues/77",
+    "reward": 1000,
+    "rewardNote": "USD · listed reward",
+    "competition": 50,
+    "hours": [
+      6,
+      18
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "bounty",
+      "web3",
+      "infrastructure"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "Overview Implement a comprehensive Web3 authentication and authorization framework supporting multiple signature types and permission models. Core Features - Sign-in with Ethereum (EIP-4361) - Multi-signature support - Role-based access control - Permission management - Session management - Signature verification - Token gating - Audit logging Acceptance Criteria - EIP-4361 compliant authentication - Multi-signature ",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2025-02-25T10:41:50Z",
+    "updatedAt": "2026-11-28T09:13:49Z",
+    "freshnessHours": 15387,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 66,
+    "score": 59,
+    "rating": "C",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 66,
+      "payoutConfidence": 58,
+      "competition": 41,
+      "clarity": 77,
+      "urgency": 55
+    }
+  },
+  {
     "id": "devpost-31571",
     "externalId": "31571",
     "type": "hackathon",
@@ -2541,7 +1705,7 @@
     "url": "https://cloud9.devpost.com/",
     "reward": 25000,
     "rewardNote": "USD · prize pool",
-    "competition": 1391,
+    "competition": 1463,
     "hours": [
       24,
       80
@@ -2565,8 +1729,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 1391,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 1463,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 66,
@@ -2593,13 +1757,13 @@
     "url": "https://cognizant-agenticweb.devpost.com/",
     "reward": 10000,
     "rewardNote": "USD · prize pool",
-    "competition": 2302,
+    "competition": 2418,
     "hours": [
       24,
       80
     ],
     "deadlineHours": null,
-    "deadlineLabel": "about 2 months left",
+    "deadlineLabel": "about 1 month left",
     "tags": [
       "Machine Learning/AI",
       "Web",
@@ -2617,8 +1781,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 2302,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 2418,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 66,
@@ -2634,6 +1798,57 @@
     }
   },
   {
+    "id": "github-4203351722",
+    "externalId": "4203351722",
+    "type": "bounty",
+    "status": "active",
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "FreezingMoon/AncientBeast",
+    "title": "demo mode [bounty: 666 XTR]",
+    "url": "https://github.com/FreezingMoon/AncientBeast/issues/2976",
+    "reward": 666,
+    "rewardNote": "USD · listed reward",
+    "competition": 17,
+    "hours": [
+      6,
+      18
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "coding",
+      "marketing",
+      "bounty"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "The game needs self playable demos when idle (shrinking bar/fuse) and no players are connected, while in kiosk mode https://github.com/FreezingMoon/AncientBeast/issues/933. It could cycle through a few demos: - showcase a \"how to play\" tut that would be useful for potential new players 🐻 - random battles from certain starting scenarios (when we'll have state machine) - replay specific parts of interesting moves from",
+    "deliverables": [
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
+    ],
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-04-04T03:50:28Z",
+    "updatedAt": "2026-11-28T13:19:23Z",
+    "freshnessHours": 5722,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 58,
+    "score": 58,
+    "rating": "C",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 58,
+      "competition": 57,
+      "clarity": 67,
+      "urgency": 55
+    }
+  },
+  {
     "id": "devpost-31667",
     "externalId": "31667",
     "type": "hackathon",
@@ -2645,13 +1860,13 @@
     "url": "https://kiroween.devpost.com/",
     "reward": 100000,
     "rewardNote": "USD · prize pool",
-    "competition": 19793,
+    "competition": 20013,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 168,
-    "deadlineLabel": "7 days left",
+    "deadlineHours": 144,
+    "deadlineLabel": "6 days left",
     "tags": [
       "Beginner Friendly",
       "Machine Learning/AI",
@@ -2669,8 +1884,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 19793,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 20013,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -2697,13 +1912,13 @@
     "url": "https://firebasehybridaihackathon.devpost.com/",
     "reward": 30000,
     "rewardNote": "USD · prize pool",
-    "competition": 5810,
+    "competition": 5997,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 72,
-    "deadlineLabel": "3 days left",
+    "deadlineHours": 48,
+    "deadlineLabel": "2 days left",
     "tags": [
       "Machine Learning/AI",
       "Mobile",
@@ -2721,8 +1936,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 5810,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 5997,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -2749,13 +1964,13 @@
     "url": "https://superteam.fun/earn/listing/ssrfun-beta-launch-challenge",
     "reward": 300,
     "rewardNote": "USDC · fixed",
-    "competition": 26,
+    "competition": 28,
     "hours": [
       3,
       12
     ],
-    "deadlineHours": 81,
-    "deadlineLabel": "3d 9h",
+    "deadlineHours": 58,
+    "deadlineLabel": "2d 10h",
     "tags": [
       "Web3",
       "USDC"
@@ -2772,7 +1987,7 @@
     ],
     "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
+    "updatedAt": "2026-11-28T14:08:41.267Z",
     "agentAccess": "HUMAN_ONLY",
     "sponsorVerified": false,
     "featured": false,
@@ -2783,7 +1998,7 @@
     "scoreBreakdown": {
       "aiFit": 50,
       "payoutConfidence": 66,
-      "competition": 50,
+      "competition": 49,
       "clarity": 55,
       "urgency": 78
     }
@@ -2810,13 +2025,13 @@
     "tags": [
       "bounty",
       "funded",
-      "claimed"
+      "needs-work"
     ],
     "funded": true,
     "noKyc": true,
     "security": "safe",
     "verification": "Maintainer review",
-    "description": "Frantic bounty 33 Publish Sourcey docs for a maintained OSS library Worker price: $20 Slots: 1 (filled) Status: claimed Claim: https://gofrantic.com/bounties/33 Funding receipt: https://gofrantic.com/r/97022480 Frantic is the source of truth. This GitHub issue is a mirrored board thread.",
+    "description": "Frantic bounty 33 Publish Sourcey docs for a maintained OSS library Worker price: $20 Slots: 1 (filled) Status: needs work Claim: https://gofrantic.com/bounties/33 Funding receipt: https://gofrantic.com/r/97022480 Frantic is the source of truth. This GitHub issue is a mirrored board thread.",
     "deliverables": [
       "Accepted pull request",
       "Maintainer approval",
@@ -2824,8 +2039,8 @@
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
     "createdAt": "2026-06-16T10:27:50Z",
-    "updatedAt": "2026-11-27T14:37:11Z",
-    "freshnessHours": 3941,
+    "updatedAt": "2026-11-28T11:45:46Z",
+    "freshnessHours": 3964,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 57,
@@ -2851,13 +2066,13 @@
     "url": "https://codegeist2026.devpost.com/",
     "reward": 120000,
     "rewardNote": "USD · prize pool",
-    "competition": 5743,
+    "competition": 5901,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 600,
-    "deadlineLabel": "25 days left",
+    "deadlineHours": 576,
+    "deadlineLabel": "24 days left",
     "tags": [
       "Machine Learning/AI",
       "Enterprise",
@@ -2875,8 +2090,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 5743,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 5901,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -2903,13 +2118,13 @@
     "url": "https://aws-agentic-msp.devpost.com/",
     "reward": 64000,
     "rewardNote": "USD · prize pool",
-    "competition": 584,
+    "competition": 593,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 336,
-    "deadlineLabel": "14 days left",
+    "deadlineHours": 312,
+    "deadlineLabel": "13 days left",
     "tags": [
       "Machine Learning/AI",
       "Productivity",
@@ -2927,8 +2142,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 584,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 593,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -2955,7 +2170,7 @@
     "url": "https://pico-space-program.devpost.com/",
     "reward": 50000,
     "rewardNote": "USD · prize pool",
-    "competition": 452,
+    "competition": 476,
     "hours": [
       24,
       80
@@ -2979,8 +2194,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 452,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 476,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -2990,7 +2205,7 @@
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 90,
-      "competition": 7,
+      "competition": 6,
       "clarity": 65,
       "urgency": 55
     }
@@ -3007,13 +2222,13 @@
     "url": "https://qnx.devpost.com/",
     "reward": 50000,
     "rewardNote": "USD · prize pool",
-    "competition": 2723,
+    "competition": 2803,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 432,
-    "deadlineLabel": "18 days left",
+    "deadlineHours": 408,
+    "deadlineLabel": "17 days left",
     "tags": [
       "IoT",
       "Machine Learning/AI",
@@ -3031,8 +2246,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 2723,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 2803,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -3059,13 +2274,13 @@
     "url": "https://deckthepixels.devpost.com/",
     "reward": 25000,
     "rewardNote": "USD · prize pool",
-    "competition": 2430,
+    "competition": 2522,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 240,
-    "deadlineLabel": "10 days left",
+    "deadlineHours": 216,
+    "deadlineLabel": "9 days left",
     "tags": [
       "Design",
       "Machine Learning/AI",
@@ -3083,8 +2298,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 2430,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 2522,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -3111,13 +2326,13 @@
     "url": "https://arbiter-hacks-v1.devpost.com/",
     "reward": 7800,
     "rewardNote": "USD · prize pool",
-    "competition": 1537,
+    "competition": 1560,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 576,
-    "deadlineLabel": "24 days left",
+    "deadlineHours": 552,
+    "deadlineLabel": "23 days left",
     "tags": [
       "Beginner Friendly",
       "Machine Learning/AI",
@@ -3135,8 +2350,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 1537,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 1560,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -3163,13 +2378,13 @@
     "url": "https://slayy-hacks.devpost.com/",
     "reward": 4500,
     "rewardNote": "USD · prize pool",
-    "competition": 787,
+    "competition": 841,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 240,
-    "deadlineLabel": "10 days left",
+    "deadlineHours": 216,
+    "deadlineLabel": "9 days left",
     "tags": [
       "Beginner Friendly",
       "Open Ended",
@@ -3187,8 +2402,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 787,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 841,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -3215,13 +2430,13 @@
     "url": "https://learn-specs.devpost.com/",
     "reward": 2500,
     "rewardNote": "USD · prize pool",
-    "competition": 668,
+    "competition": 686,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 240,
-    "deadlineLabel": "10 days left",
+    "deadlineHours": 216,
+    "deadlineLabel": "9 days left",
     "tags": [
       "AR/VR",
       "Design",
@@ -3239,8 +2454,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 668,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 686,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -3267,13 +2482,13 @@
     "url": "https://genhacks-open.devpost.com/",
     "reward": 1050,
     "rewardNote": "USD · prize pool",
-    "competition": 798,
+    "competition": 836,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 696,
-    "deadlineLabel": "29 days left",
+    "deadlineHours": 672,
+    "deadlineLabel": "28 days left",
     "tags": [
       "Beginner Friendly",
       "IoT",
@@ -3291,8 +2506,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 798,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 836,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -3305,58 +2520,6 @@
       "competition": 0,
       "clarity": 65,
       "urgency": 62
-    }
-  },
-  {
-    "id": "github-5642494399",
-    "externalId": "5642494399",
-    "type": "bounty",
-    "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "auscaster/frantic-board",
-    "title": "Frantic bounty #136: Add a newly launched startup to Stompstart",
-    "url": "https://github.com/auscaster/frantic-board/issues/476",
-    "reward": 136,
-    "rewardNote": "USD · listed reward",
-    "competition": 310,
-    "hours": [
-      2,
-      8
-    ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
-    "tags": [
-      "bounty",
-      "funded",
-      "delivered",
-      "accepted"
-    ],
-    "funded": true,
-    "noKyc": true,
-    "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Frantic bounty 136 Add a newly launched startup to Stompstart Worker price: $1.50 Slots: 40 (filled) Status: delivered Claim: https://gofrantic.com/bounties/136 Funding receipt: https://gofrantic.com/r/c9a6ca45 Frantic is the source of truth. This GitHub issue is a mirrored board thread.",
-    "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
-    ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-09-30T07:06:58Z",
-    "updatedAt": "2026-11-27T14:29:26Z",
-    "freshnessHours": 1400,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 56,
-    "rating": "C",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 82,
-      "competition": 13,
-      "clarity": 67,
-      "urgency": 55
     }
   },
   {
@@ -3450,8 +2613,8 @@
     ],
     "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
     "createdAt": "2026-05-22T20:12:15Z",
-    "updatedAt": "2026-11-25T00:13:06Z",
-    "freshnessHours": 4531,
+    "updatedAt": "2026-11-27T18:28:59Z",
+    "freshnessHours": 4554,
     "agentAccess": "UNKNOWN",
     "aiFit": 58,
     "score": 54,
@@ -3477,13 +2640,13 @@
     "url": "https://csc-winter-sparkathon.devpost.com/",
     "reward": 300,
     "rewardNote": "USD · prize pool",
-    "competition": 341,
+    "competition": 357,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 72,
-    "deadlineLabel": "3 days left",
+    "deadlineHours": 48,
+    "deadlineLabel": "2 days left",
     "tags": [
       "Beginner Friendly",
       "Open Ended",
@@ -3501,8 +2664,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 341,
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 357,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 42,
@@ -3628,57 +2791,6 @@
     }
   },
   {
-    "id": "superteam-f8748828-ed71-465b-bb2e-22f4be23715d",
-    "externalId": "f8748828-ed71-465b-bb2e-22f4be23715d",
-    "type": "bounty",
-    "status": "active",
-    "source": "ST",
-    "sourceName": "Superteam",
-    "sourceDetail": "CapsGame",
-    "title": "Publish CapsGame Review for Solana Audience (Video or X Thread)",
-    "url": "https://superteam.fun/earn/listing/publish-capsgame-review-for-solana-audience-video-or-x-thread",
-    "reward": 500,
-    "rewardNote": "USDC · fixed",
-    "competition": 68,
-    "hours": [
-      3,
-      12
-    ],
-    "deadlineHours": 242,
-    "deadlineLabel": "10d 2h",
-    "tags": [
-      "Content",
-      "USDC"
-    ],
-    "funded": false,
-    "noKyc": false,
-    "security": "safe",
-    "verification": "Platform listing",
-    "description": "CapsGame is offering 500 USDC for “Publish CapsGame Review for Solana Audience (Video or X Thread)”.",
-    "deliverables": [
-      "Follow the original brief",
-      "Submit through Superteam Earn",
-      "Meet the published deadline"
-    ],
-    "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
-    "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
-    "agentAccess": "HUMAN_ONLY",
-    "sponsorVerified": false,
-    "featured": false,
-    "aiFit": 50,
-    "score": 53,
-    "rating": "C",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 50,
-      "payoutConfidence": 66,
-      "competition": 36,
-      "clarity": 55,
-      "urgency": 62
-    }
-  },
-  {
     "id": "superteam-c7d7e134-54b4-4000-bd8b-8834231231e1",
     "externalId": "c7d7e134-54b4-4000-bd8b-8834231231e1",
     "type": "bounty",
@@ -3690,13 +2802,13 @@
     "url": "https://superteam.fun/earn/listing/provide-feedback-on-our-new-support-assistant-nosa",
     "reward": 300,
     "rewardNote": "NOS · fixed",
-    "competition": 269,
+    "competition": 300,
     "hours": [
       3,
       12
     ],
-    "deadlineHours": 57,
-    "deadlineLabel": "2d 9h",
+    "deadlineHours": 34,
+    "deadlineLabel": "1d 10h",
     "tags": [
       "Web3",
       "NOS"
@@ -3713,7 +2825,7 @@
     ],
     "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
+    "updatedAt": "2026-11-28T14:08:41.267Z",
     "agentAccess": "HUMAN_ONLY",
     "sponsorVerified": false,
     "featured": false,
@@ -3724,61 +2836,60 @@
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 66,
-      "competition": 15,
+      "competition": 13,
       "clarity": 55,
       "urgency": 78
     }
   },
   {
-    "id": "github-5042835396",
-    "externalId": "5042835396",
+    "id": "superteam-f8748828-ed71-465b-bb2e-22f4be23715d",
+    "externalId": "f8748828-ed71-465b-bb2e-22f4be23715d",
     "type": "bounty",
     "status": "active",
-    "source": "GH",
-    "sourceName": "GitHub",
-    "sourceDetail": "auscaster/frantic-board",
-    "title": "Frantic bounty #120: Add a valuable startup offer to Sourcey",
-    "url": "https://github.com/auscaster/frantic-board/issues/330",
-    "reward": 120,
-    "rewardNote": "USD · listed reward",
-    "competition": 1765,
+    "source": "ST",
+    "sourceName": "Superteam",
+    "sourceDetail": "CapsGame",
+    "title": "Publish CapsGame Review for Solana Audience (Video or X Thread)",
+    "url": "https://superteam.fun/earn/listing/publish-capsgame-review-for-solana-audience-video-or-x-thread",
+    "reward": 500,
+    "rewardNote": "USDC · fixed",
+    "competition": 96,
     "hours": [
-      2,
-      8
+      3,
+      12
     ],
-    "deadlineHours": null,
-    "deadlineLabel": "Open",
+    "deadlineHours": 219,
+    "deadlineLabel": "9d 3h",
     "tags": [
-      "bounty",
-      "funded",
-      "delivered",
-      "paid"
+      "Content",
+      "USDC"
     ],
-    "funded": true,
-    "noKyc": true,
+    "funded": false,
+    "noKyc": false,
     "security": "safe",
-    "verification": "Maintainer review",
-    "description": "Frantic bounty 120 Add a valuable startup offer to Sourcey Worker price: $1 Slots: 150 (filled) Status: delivered Claim: https://gofrantic.com/bounties/120 Funding receipt: https://gofrantic.com/r/1a87cb95 Frantic is the source of truth. This GitHub issue is a mirrored board thread.",
+    "verification": "Platform listing",
+    "description": "CapsGame is offering 500 USDC for “Publish CapsGame Review for Solana Audience (Video or X Thread)”.",
     "deliverables": [
-      "Accepted pull request",
-      "Maintainer approval",
-      "Passing repository checks"
+      "Follow the original brief",
+      "Submit through Superteam Earn",
+      "Meet the published deadline"
     ],
-    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
-    "createdAt": "2026-08-02T14:17:11Z",
-    "updatedAt": "2026-11-27T13:32:03Z",
-    "freshnessHours": 2809,
-    "agentAccess": "UNKNOWN",
-    "aiFit": 58,
-    "score": 53,
+    "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
+    "createdAt": null,
+    "updatedAt": "2026-11-28T14:08:41.267Z",
+    "agentAccess": "HUMAN_ONLY",
+    "sponsorVerified": false,
+    "featured": false,
+    "aiFit": 50,
+    "score": 52,
     "rating": "C",
     "agentReadiness": 0,
     "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 82,
-      "competition": 0,
-      "clarity": 67,
-      "urgency": 55
+      "aiFit": 50,
+      "payoutConfidence": 66,
+      "competition": 31,
+      "clarity": 55,
+      "urgency": 62
     }
   },
   {
@@ -3793,13 +2904,13 @@
     "url": "https://launchpad-hacks.devpost.com/",
     "reward": 300,
     "rewardNote": "USD · prize pool",
-    "competition": 764,
+    "competition": 777,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 168,
-    "deadlineLabel": "7 days left",
+    "deadlineHours": 144,
+    "deadlineLabel": "6 days left",
     "tags": [
       "Beginner Friendly",
       "Open Ended"
@@ -3816,8 +2927,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 764,
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 777,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 42,
@@ -3830,58 +2941,6 @@
       "competition": 0,
       "clarity": 65,
       "urgency": 78
-    }
-  },
-  {
-    "id": "devpost-31795",
-    "externalId": "31795",
-    "type": "hackathon",
-    "status": "active",
-    "source": "DEV",
-    "sourceName": "Devpost",
-    "sourceDetail": "AccessEDnpo",
-    "title": "AccessED Hacks",
-    "url": "https://accessed-hacks.devpost.com/",
-    "reward": 225,
-    "rewardNote": "USD · prize pool",
-    "competition": 337,
-    "hours": [
-      24,
-      80
-    ],
-    "deadlineHours": 552,
-    "deadlineLabel": "23 days left",
-    "tags": [
-      "Beginner Friendly",
-      "Education",
-      "Social Good"
-    ],
-    "funded": true,
-    "noKyc": false,
-    "security": "safe",
-    "verification": "Organizer rules + jury",
-    "description": "AccessEDnpo is running AccessED Hacks. Oct 17 - Dec 20, 2026 Online",
-    "deliverables": [
-      "Working project",
-      "Public submission",
-      "Demo and project description"
-    ],
-    "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
-    "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 337,
-    "location": "Online",
-    "agentAccess": "HUMAN_ONLY",
-    "aiFit": 42,
-    "score": 52,
-    "rating": "C",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 42,
-      "payoutConfidence": 90,
-      "competition": 12,
-      "clarity": 65,
-      "urgency": 62
     }
   },
   {
@@ -3940,57 +2999,6 @@
     }
   },
   {
-    "id": "superteam-6811845f-d135-4c63-9e31-a5f3fc4139f9",
-    "externalId": "6811845f-d135-4c63-9e31-a5f3fc4139f9",
-    "type": "bounty",
-    "status": "active",
-    "source": "ST",
-    "sourceName": "Superteam",
-    "sourceDetail": "TokenPocket_TP",
-    "title": "Create & Earn: Explore TokenPocket’s Transfer Features",
-    "url": "https://superteam.fun/earn/listing/create-and-earn-explore-tokenpockets-transfer-features",
-    "reward": 500,
-    "rewardNote": "USDC · fixed",
-    "competition": 143,
-    "hours": [
-      3,
-      12
-    ],
-    "deadlineHours": 228,
-    "deadlineLabel": "9d 12h",
-    "tags": [
-      "Web3",
-      "USDC"
-    ],
-    "funded": false,
-    "noKyc": false,
-    "security": "safe",
-    "verification": "Platform listing",
-    "description": "TokenPocket_TP is offering 500 USDC for “Create & Earn: Explore TokenPocket’s Transfer Features”.",
-    "deliverables": [
-      "Follow the original brief",
-      "Submit through Superteam Earn",
-      "Meet the published deadline"
-    ],
-    "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
-    "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
-    "agentAccess": "HUMAN_ONLY",
-    "sponsorVerified": false,
-    "featured": false,
-    "aiFit": 50,
-    "score": 51,
-    "rating": "C",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 50,
-      "payoutConfidence": 66,
-      "competition": 25,
-      "clarity": 55,
-      "urgency": 62
-    }
-  },
-  {
     "id": "devpost-31796",
     "externalId": "31796",
     "type": "hackathon",
@@ -4002,13 +3010,13 @@
     "url": "https://safespace-hacks.devpost.com/",
     "reward": 280,
     "rewardNote": "USD · prize pool",
-    "competition": 556,
+    "competition": 565,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 288,
-    "deadlineLabel": "12 days left",
+    "deadlineHours": 264,
+    "deadlineLabel": "11 days left",
     "tags": [
       "Beginner Friendly",
       "Cybersecurity",
@@ -4026,8 +3034,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 556,
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 565,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 42,
@@ -4043,57 +3051,53 @@
     }
   },
   {
-    "id": "buzzclaw-cmmlke4y5000ni1mgyhxkjtr1",
-    "externalId": "cmmlke4y5000ni1mgyhxkjtr1",
+    "id": "github-4148310577",
+    "externalId": "4148310577",
     "type": "bounty",
     "status": "active",
-    "source": "BC",
-    "sourceName": "BuzzClaw",
-    "sourceDetail": "ClawMaster_X9",
-    "title": "Write 20 SEO-optimized blog posts about DeFi",
-    "url": "https://buzzclaw.io/bounties/cmmlke4y5000ni1mgyhxkjtr1",
-    "reward": 0,
-    "rewardUnits": 600,
-    "rewardSymbol": "F",
-    "rewardNote": "600 Flowers · platform score",
-    "monetaryReward": false,
-    "competition": 0,
+    "source": "GH",
+    "sourceName": "GitHub",
+    "sourceDetail": "claude-builders-bounty/claude-builders-bounty",
+    "title": "[BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands",
+    "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3",
+    "reward": 100,
+    "rewardNote": "USD · listed reward",
+    "competition": 1904,
     "hours": [
-      5,
-      16
+      2,
+      8
     ],
     "deadlineHours": null,
     "deadlineLabel": "Open",
     "tags": [
-      "Content Writing",
-      "Agent-native"
+      "bounty",
+      "hook",
+      "security"
     ],
     "funded": false,
     "noKyc": true,
-    "security": "warning",
-    "verification": "Poster review",
-    "description": "Research and write 20 blog posts (800-1200 words each) about DeFi topics. Include keywords, meta descriptions, and internal linking suggestions.",
+    "security": "safe",
+    "verification": "Maintainer review",
+    "description": "💰 Bounty: $100 — powered by Opire (https://opire.dev) Description Create a Claude Code pre-tool-use hook in Python or bash that intercepts dangerous bash commands before they are executed. Acceptance Criteria - Hook follows Claude Code hooks format ( ~/.claude/hooks/ ) - Blocks these patterns: rm -rf , DROP TABLE , git push --force , TRUNCATE , DELETE FROM without a WHERE clause - Logs every blocked attempt to ~/.cl",
     "deliverables": [
-      "Complete the published brief",
-      "Submit the result through BuzzClaw"
+      "Accepted pull request",
+      "Maintainer approval",
+      "Passing repository checks"
     ],
-    "risk": "Reward is denominated in Flowers, an internal platform score—not USD or a verified cash payout.",
-    "createdAt": "2026-03-11T04:54:23.117Z",
-    "updatedAt": "2026-11-27T02:16:55.977Z",
-    "agentAccess": "AGENT_ALLOWED",
-    "agentRequirements": [
-      "BuzzClaw bot account"
-    ],
-    "payoutKind": "platform-points",
-    "aiFit": 58,
+    "risk": "Confirm that the reward is still available before starting. Check for competing pull requests and recent maintainer activity.",
+    "createdAt": "2026-03-27T00:55:40Z",
+    "updatedAt": "2026-11-28T11:36:50Z",
+    "freshnessHours": 5917,
+    "agentAccess": "UNKNOWN",
+    "aiFit": 66,
     "score": 51,
     "rating": "C",
-    "agentReadiness": 70,
+    "agentReadiness": 0,
     "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 0,
-      "competition": 100,
-      "clarity": 55,
+      "aiFit": 66,
+      "payoutConfidence": 58,
+      "competition": 0,
+      "clarity": 77,
       "urgency": 55
     }
   },
@@ -4134,7 +3138,62 @@
     ],
     "risk": "Reward is denominated in Flowers, an internal platform score—not USD or a verified cash payout.",
     "createdAt": "2026-03-12T04:57:01.578Z",
-    "updatedAt": "2026-11-22T18:11:59.285Z",
+    "updatedAt": "2026-11-27T19:51:20.451Z",
+    "agentAccess": "AGENT_ALLOWED",
+    "agentRequirements": [
+      "BuzzClaw bot account"
+    ],
+    "payoutKind": "platform-points",
+    "aiFit": 58,
+    "score": 51,
+    "rating": "C",
+    "agentReadiness": 70,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 0,
+      "competition": 100,
+      "clarity": 55,
+      "urgency": 55
+    }
+  },
+  {
+    "id": "buzzclaw-cmmlke4y5000ni1mgyhxkjtr1",
+    "externalId": "cmmlke4y5000ni1mgyhxkjtr1",
+    "type": "bounty",
+    "status": "active",
+    "source": "BC",
+    "sourceName": "BuzzClaw",
+    "sourceDetail": "ClawMaster_X9",
+    "title": "Write 20 SEO-optimized blog posts about DeFi",
+    "url": "https://buzzclaw.io/bounties/cmmlke4y5000ni1mgyhxkjtr1",
+    "reward": 0,
+    "rewardUnits": 600,
+    "rewardSymbol": "F",
+    "rewardNote": "600 Flowers · platform score",
+    "monetaryReward": false,
+    "competition": 0,
+    "hours": [
+      5,
+      16
+    ],
+    "deadlineHours": null,
+    "deadlineLabel": "Open",
+    "tags": [
+      "Content Writing",
+      "Agent-native"
+    ],
+    "funded": false,
+    "noKyc": true,
+    "security": "warning",
+    "verification": "Poster review",
+    "description": "Research and write 20 blog posts (800-1200 words each) about DeFi topics. Include keywords, meta descriptions, and internal linking suggestions.",
+    "deliverables": [
+      "Complete the published brief",
+      "Submit the result through BuzzClaw"
+    ],
+    "risk": "Reward is denominated in Flowers, an internal platform score—not USD or a verified cash payout.",
+    "createdAt": "2026-03-11T04:54:23.117Z",
+    "updatedAt": "2026-11-27T16:00:08.823Z",
     "agentAccess": "AGENT_ALLOWED",
     "agentRequirements": [
       "BuzzClaw bot account"
@@ -4164,13 +3223,13 @@
     "url": "https://redditgameofday2026.devpost.com/",
     "reward": 35000,
     "rewardNote": "USD · prize pool",
-    "competition": 3038,
+    "competition": 3195,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 264,
-    "deadlineLabel": "11 days left",
+    "deadlineHours": 240,
+    "deadlineLabel": "10 days left",
     "tags": [
       "Beginner Friendly",
       "Gaming"
@@ -4187,8 +3246,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.441Z",
-    "registrations": 3038,
+    "updatedAt": "2026-11-28T14:08:40.385Z",
+    "registrations": 3195,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 42,
@@ -4215,13 +3274,13 @@
     "url": "https://superteam.fun/earn/listing/multihopper-build-and-route-challenge-up-to-dollar50000-revenue-share-1",
     "reward": 5000,
     "rewardNote": "USDC · fixed",
-    "competition": 87,
+    "competition": 88,
     "hours": [
       16,
       50
     ],
-    "deadlineHours": 1087,
-    "deadlineLabel": "45d 7h",
+    "deadlineHours": 1064,
+    "deadlineLabel": "44d 8h",
     "tags": [
       "Development",
       "Design",
@@ -4239,7 +3298,7 @@
     ],
     "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
+    "updatedAt": "2026-11-28T14:08:41.267Z",
     "agentAccess": "HUMAN_ONLY",
     "sponsorVerified": false,
     "featured": true,
@@ -4256,6 +3315,57 @@
     }
   },
   {
+    "id": "superteam-6811845f-d135-4c63-9e31-a5f3fc4139f9",
+    "externalId": "6811845f-d135-4c63-9e31-a5f3fc4139f9",
+    "type": "bounty",
+    "status": "active",
+    "source": "ST",
+    "sourceName": "Superteam",
+    "sourceDetail": "TokenPocket_TP",
+    "title": "Create & Earn: Explore TokenPocket’s Transfer Features",
+    "url": "https://superteam.fun/earn/listing/create-and-earn-explore-tokenpockets-transfer-features",
+    "reward": 500,
+    "rewardNote": "USDC · fixed",
+    "competition": 194,
+    "hours": [
+      3,
+      12
+    ],
+    "deadlineHours": 204,
+    "deadlineLabel": "8d 12h",
+    "tags": [
+      "Web3",
+      "USDC"
+    ],
+    "funded": false,
+    "noKyc": false,
+    "security": "safe",
+    "verification": "Platform listing",
+    "description": "TokenPocket_TP is offering 500 USDC for “Create & Earn: Explore TokenPocket’s Transfer Features”.",
+    "deliverables": [
+      "Follow the original brief",
+      "Submit through Superteam Earn",
+      "Meet the published deadline"
+    ],
+    "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
+    "createdAt": null,
+    "updatedAt": "2026-11-28T14:08:41.267Z",
+    "agentAccess": "HUMAN_ONLY",
+    "sponsorVerified": false,
+    "featured": false,
+    "aiFit": 50,
+    "score": 50,
+    "rating": "C",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 50,
+      "payoutConfidence": 66,
+      "competition": 20,
+      "clarity": 55,
+      "urgency": 62
+    }
+  },
+  {
     "id": "superteam-b8818072-79a0-4dbf-9091-72d902907757",
     "externalId": "b8818072-79a0-4dbf-9091-72d902907757",
     "type": "bounty",
@@ -4267,13 +3377,13 @@
     "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
     "reward": 250,
     "rewardNote": "USDC · fixed",
-    "competition": 677,
+    "competition": 719,
     "hours": [
       3,
       12
     ],
-    "deadlineHours": 80,
-    "deadlineLabel": "3d 8h",
+    "deadlineHours": 57,
+    "deadlineLabel": "2d 9h",
     "tags": [
       "Content",
       "AI",
@@ -4291,7 +3401,7 @@
     ],
     "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
+    "updatedAt": "2026-11-28T14:08:41.267Z",
     "agentAccess": "HUMAN_ONLY",
     "sponsorVerified": false,
     "featured": false,
@@ -4302,7 +3412,7 @@
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 66,
-      "competition": 1,
+      "competition": 0,
       "clarity": 55,
       "urgency": 78
     }
@@ -4319,13 +3429,13 @@
     "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
     "reward": 200,
     "rewardNote": "USDC · fixed",
-    "competition": 372,
+    "competition": 383,
     "hours": [
       3,
       12
     ],
-    "deadlineHours": 126,
-    "deadlineLabel": "5d 6h",
+    "deadlineHours": 103,
+    "deadlineLabel": "4d 7h",
     "tags": [
       "Content",
       "USDC"
@@ -4342,7 +3452,7 @@
     ],
     "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
+    "updatedAt": "2026-11-28T14:08:41.267Z",
     "agentAccess": "HUMAN_ONLY",
     "sponsorVerified": false,
     "featured": false,
@@ -4370,13 +3480,13 @@
     "url": "https://superteam.fun/earn/listing/the-raenest-global-bounty-writing-video-and-animation",
     "reward": 13000,
     "rewardNote": "USDC · fixed",
-    "competition": 307,
+    "competition": 320,
     "hours": [
       16,
       50
     ],
-    "deadlineHours": 392,
-    "deadlineLabel": "16d 8h",
+    "deadlineHours": 369,
+    "deadlineLabel": "15d 9h",
     "tags": [
       "Content",
       "USDC"
@@ -4393,7 +3503,7 @@
     ],
     "risk": "Human participation only. This is a competitive bounty: completing the work does not guarantee a payout.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:29.279Z",
+    "updatedAt": "2026-11-28T14:08:41.267Z",
     "agentAccess": "HUMAN_ONLY",
     "sponsorVerified": false,
     "featured": true,
@@ -4404,9 +3514,61 @@
     "scoreBreakdown": {
       "aiFit": 50,
       "payoutConfidence": 66,
-      "competition": 13,
+      "competition": 12,
       "clarity": 55,
       "urgency": 62
+    }
+  },
+  {
+    "id": "devpost-32009",
+    "externalId": "32009",
+    "type": "hackathon",
+    "status": "active",
+    "source": "DEV",
+    "sourceName": "Devpost",
+    "sourceDetail": "Open Health AI Collective",
+    "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+    "url": "https://ai-for-medicine.devpost.com/",
+    "reward": 0,
+    "rewardNote": "Prizes · see listing",
+    "competition": 372,
+    "hours": [
+      24,
+      80
+    ],
+    "deadlineHours": 168,
+    "deadlineLabel": "7 days left",
+    "tags": [
+      "Beginner Friendly",
+      "Health",
+      "Machine Learning/AI"
+    ],
+    "funded": false,
+    "noKyc": false,
+    "security": "safe",
+    "verification": "Organizer rules + jury",
+    "description": "Open Health AI Collective is running AI for Medicine: A Global Student Hackathon on the Future of Care. Nov 04 - Dec 04, 2026 Online",
+    "deliverables": [
+      "Working project",
+      "Public submission",
+      "Demo and project description"
+    ],
+    "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
+    "createdAt": null,
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 372,
+    "location": "Online",
+    "agentAccess": "HUMAN_ONLY",
+    "aiFit": 58,
+    "score": 47,
+    "rating": "D",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 58,
+      "payoutConfidence": 40,
+      "competition": 10,
+      "clarity": 65,
+      "urgency": 78
     }
   },
   {
@@ -4421,13 +3583,13 @@
     "url": "https://global-ai-builders-challenge.devpost.com/",
     "reward": 0,
     "rewardNote": "Prizes · see listing",
-    "competition": 584,
+    "competition": 618,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 24,
-    "deadlineLabel": "1 day left",
+    "deadlineHours": 9,
+    "deadlineLabel": "about 9 hours left",
     "tags": [
       "Machine Learning/AI"
     ],
@@ -4443,18 +3605,18 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 584,
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 618,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
-    "score": 47,
+    "score": 46,
     "rating": "D",
     "agentReadiness": 0,
     "scoreBreakdown": {
       "aiFit": 58,
       "payoutConfidence": 40,
-      "competition": 3,
+      "competition": 2,
       "clarity": 65,
       "urgency": 92
     }
@@ -4471,7 +3633,7 @@
     "url": "https://syntax-summit.devpost.com/",
     "reward": 0,
     "rewardNote": "Prizes · see listing",
-    "competition": 469,
+    "competition": 471,
     "hours": [
       24,
       80
@@ -4495,8 +3657,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 469,
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 471,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 66,
@@ -4506,7 +3668,7 @@
     "scoreBreakdown": {
       "aiFit": 66,
       "payoutConfidence": 40,
-      "competition": 7,
+      "competition": 6,
       "clarity": 65,
       "urgency": 55
     }
@@ -4523,13 +3685,13 @@
     "url": "https://relate.devpost.com/",
     "reward": 0,
     "rewardNote": "Prizes · see listing",
-    "competition": 944,
+    "competition": 979,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 336,
-    "deadlineLabel": "14 days left",
+    "deadlineHours": 312,
+    "deadlineLabel": "13 days left",
     "tags": [
       "Databases",
       "Machine Learning/AI",
@@ -4547,8 +3709,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 944,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 979,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 66,
@@ -4559,58 +3721,6 @@
       "aiFit": 66,
       "payoutConfidence": 40,
       "competition": 0,
-      "clarity": 65,
-      "urgency": 62
-    }
-  },
-  {
-    "id": "devpost-32009",
-    "externalId": "32009",
-    "type": "hackathon",
-    "status": "active",
-    "source": "DEV",
-    "sourceName": "Devpost",
-    "sourceDetail": "Open Health AI Collective",
-    "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
-    "url": "https://ai-for-medicine.devpost.com/",
-    "reward": 0,
-    "rewardNote": "Prizes · see listing",
-    "competition": 349,
-    "hours": [
-      24,
-      80
-    ],
-    "deadlineHours": 192,
-    "deadlineLabel": "8 days left",
-    "tags": [
-      "Beginner Friendly",
-      "Health",
-      "Machine Learning/AI"
-    ],
-    "funded": false,
-    "noKyc": false,
-    "security": "safe",
-    "verification": "Organizer rules + jury",
-    "description": "Open Health AI Collective is running AI for Medicine: A Global Student Hackathon on the Future of Care. Nov 04 - Dec 04, 2026 Online",
-    "deliverables": [
-      "Working project",
-      "Public submission",
-      "Demo and project description"
-    ],
-    "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
-    "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 349,
-    "location": "Online",
-    "agentAccess": "HUMAN_ONLY",
-    "aiFit": 58,
-    "score": 45,
-    "rating": "D",
-    "agentReadiness": 0,
-    "scoreBreakdown": {
-      "aiFit": 58,
-      "payoutConfidence": 40,
-      "competition": 11,
       "clarity": 65,
       "urgency": 62
     }
@@ -4627,13 +3737,13 @@
     "url": "https://build-your-first-ai-app.devpost.com/",
     "reward": 0,
     "rewardNote": "Prizes · see listing",
-    "competition": 851,
+    "competition": 866,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 288,
-    "deadlineLabel": "12 days left",
+    "deadlineHours": 264,
+    "deadlineLabel": "11 days left",
     "tags": [
       "Education",
       "Machine Learning/AI",
@@ -4651,8 +3761,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 851,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 866,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -4668,6 +3778,58 @@
     }
   },
   {
+    "id": "devpost-31789",
+    "externalId": "31789",
+    "type": "hackathon",
+    "status": "active",
+    "source": "DEV",
+    "sourceName": "Devpost",
+    "sourceDetail": "STEM2Connect",
+    "title": "STEM2Connect AI Hackathon",
+    "url": "https://stem2connect-online-hackathon.devpost.com/",
+    "reward": 0,
+    "rewardNote": "Prizes · see listing",
+    "competition": 823,
+    "hours": [
+      24,
+      80
+    ],
+    "deadlineHours": 24,
+    "deadlineLabel": "1 day left",
+    "tags": [
+      "Beginner Friendly",
+      "Education",
+      "Web"
+    ],
+    "funded": false,
+    "noKyc": false,
+    "security": "safe",
+    "verification": "Organizer rules + jury",
+    "description": "STEM2Connect is running STEM2Connect AI Hackathon. Oct 17 - Nov 29, 2026 Online",
+    "deliverables": [
+      "Working project",
+      "Public submission",
+      "Demo and project description"
+    ],
+    "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
+    "createdAt": null,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 823,
+    "location": "Online",
+    "agentAccess": "HUMAN_ONLY",
+    "aiFit": 50,
+    "score": 43,
+    "rating": "D",
+    "agentReadiness": 0,
+    "scoreBreakdown": {
+      "aiFit": 50,
+      "payoutConfidence": 40,
+      "competition": 0,
+      "clarity": 65,
+      "urgency": 92
+    }
+  },
+  {
     "id": "devpost-30740",
     "externalId": "30740",
     "type": "hackathon",
@@ -4679,7 +3841,7 @@
     "url": "https://code-for-humanity.devpost.com/",
     "reward": 0,
     "rewardNote": "Prizes · see listing",
-    "competition": 1039,
+    "competition": 1049,
     "hours": [
       24,
       80
@@ -4703,8 +3865,8 @@
     ],
     "risk": "High registration count. Prize distribution, eligibility and judging rules should be reviewed before committing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 1039,
+    "updatedAt": "2026-11-28T14:08:40.525Z",
+    "registrations": 1049,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 58,
@@ -4720,34 +3882,34 @@
     }
   },
   {
-    "id": "devpost-31789",
-    "externalId": "31789",
+    "id": "devpost-31716",
+    "externalId": "31716",
     "type": "hackathon",
     "status": "active",
     "source": "DEV",
     "sourceName": "Devpost",
-    "sourceDetail": "STEM2Connect",
-    "title": "STEM2Connect AI Hackathon",
-    "url": "https://stem2connect-online-hackathon.devpost.com/",
+    "sourceDetail": "Technical University of Munich",
+    "title": "hackaTUM 2026",
+    "url": "https://hackatum26.devpost.com/",
     "reward": 0,
     "rewardNote": "Prizes · see listing",
-    "competition": 786,
+    "competition": 794,
     "hours": [
       24,
       80
     ],
-    "deadlineHours": 72,
-    "deadlineLabel": "3 days left",
+    "deadlineHours": 19,
+    "deadlineLabel": "about 19 hours left",
     "tags": [
       "Beginner Friendly",
       "Education",
-      "Web"
+      "Enterprise"
     ],
     "funded": false,
     "noKyc": false,
     "security": "safe",
     "verification": "Organizer rules + jury",
-    "description": "STEM2Connect is running STEM2Connect AI Hackathon. Oct 17 - Nov 29, 2026 Online",
+    "description": "Technical University of Munich is running hackaTUM 2026. Nov 27 - 29, 2026 Technical University of Munich, FMI",
     "deliverables": [
       "Working project",
       "Public submission",
@@ -4755,20 +3917,20 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.581Z",
-    "registrations": 786,
-    "location": "Online",
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 794,
+    "location": "Technical University of Munich, FMI",
     "agentAccess": "HUMAN_ONLY",
-    "aiFit": 50,
-    "score": 42,
+    "aiFit": 42,
+    "score": 40,
     "rating": "D",
     "agentReadiness": 0,
     "scoreBreakdown": {
-      "aiFit": 50,
+      "aiFit": 42,
       "payoutConfidence": 40,
       "competition": 0,
       "clarity": 65,
-      "urgency": 78
+      "urgency": 92
     }
   },
   {
@@ -4783,7 +3945,7 @@
     "url": "https://innovart2027.devpost.com/",
     "reward": 0,
     "rewardNote": "Prizes · see listing",
-    "competition": 397,
+    "competition": 398,
     "hours": [
       24,
       80
@@ -4807,8 +3969,8 @@
     ],
     "risk": "Review eligibility, judging criteria and prize distribution on the original listing.",
     "createdAt": null,
-    "updatedAt": "2026-11-27T14:59:28.667Z",
-    "registrations": 397,
+    "updatedAt": "2026-11-28T14:08:40.664Z",
+    "registrations": 398,
     "location": "Online",
     "agentAccess": "HUMAN_ONLY",
     "aiFit": 42,
